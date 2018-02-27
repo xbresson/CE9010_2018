@@ -3,7 +3,7 @@
 <br>
 <br>
 
-## Install Python   
+## Install Python 
 
 For a local installation, it is recommended to install [Miniconda], a distribution of the [conda] package and environment manager. Please follow the below instructions to install it and create an environment for the course:
 
