@@ -14,7 +14,7 @@ For a local installation, it is recommended to install [Miniconda], a distributi
 1. Open a terminal. Windows: Open the Anaconda Prompt terminal from the Start menu.
 1. Install git: `conda install git`.
 1. Download the GitHub repository of the course: `git clone https://github.com/xbresson/CE9010_2018`.
-1. Go to folder CE9010_2018 with `cd CE9010_2018`, and create a Python virtual environment with the packages required for the course: `conda env create -f CE9010_2018/environment.yml`. Note 1: It may take some time. Note 2: List the python packages with `conda list`.
+1. Go to folder CE9010_2018 with `cd CE9010_2018`, and create a Python virtual environment with the packages required for the course: `conda env create -f environment.yml`. Note 1: It may take some time. Note 2: List the python packages with `conda list`.
 
    Note: Instructions based on Michael Defferrard, December 2017<br>
    Note: Useful Conda commands are: `pwd`, `cd`, `ls -al`, `rm -r -f folder/`<br>
