@@ -73,12 +73,17 @@ The following times:
 
 ## Run Python notebooks with Binder
 
+&nbsp;&nbsp;&nbsp; dsdsadsadasdsad
+
 &nbsp;&nbsp;&nbsp; No Python installation needed to run the notebooks: Simply [click here]
 
 
 [Click here]: https://mybinder.org/v2/gh/xbresson/CE9010_2018/master
 
+dsasadasdsad
 
+
+dsadsadsadsa
 
 
 [git]: https://git-scm.com
