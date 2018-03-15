@@ -45,10 +45,12 @@ First time:
 1. When your tutorial is completed, you can go back to the terminal command by shutting down the juypter kernels with `Control-C`. 
 1. Save your notebook with git: `git add .`, and `git commit -m tutorial01`.
 
-	Note for Windows: Folder CE9010_2018 is located at `C:\Users\user_name\CE9010_2018`<br>
+	Note: Folder CE9010_2018 is located at `C:\Users\user_name\CE9010_2018` for Windows, and `/Users/user_name/CE9010_2018` for macOS.<br>
    Note: Check the status of your git folder: `git status`<br>
-   Note: [git commands]<br>
-   Note: [Understanding git conflicts]
+   Note: List of [git commands]<br>
+   Note: [Understanding git conflicts]<br>
+   Note: Windows systems may print the `warning: LF will be replaced by CRLF` when git commit. You can deactivate this warning with `git config core.autocrlf false`.
+
 
 [git commands]: git/git_commands.pdf
 [Understanding git conflicts]: git/git_xb.pdf
@@ -66,24 +68,34 @@ The following times:
 1. When your tutorial is completed, you can go back to the terminal by shutting down the juypter kernels with `Control-C`. 
 1. Save your notebook with git: `git add .`, and `git commit -m tutorial02`.
 
-<br>
 
+
+
+<br>
+Fresh installation of the GitHub repository: 
+
+1. For GitHub beginners who wish to start from a clean GitHub repository of the course. 
+1. It is first recommended to backup the current folder by changing the folder name `CE9010_2018` to `CE9010_2018_backup` (for example).
+1. Re-download the GitHub repository of the course: `git clone https://github.com/xbresson/CE9010_2018`.
+1. Copy-paste your own notebooks from `CE9010_2018_backup/tutorials` to the new folder `CE9010_2018/tutorials`.
+
+
+
+
+
+
+<br>
 
 
 
 ## Run Python notebooks with Binder
 
-&nbsp;&nbsp;&nbsp; dsdsadsadasdsad
-
 &nbsp;&nbsp;&nbsp; No Python installation needed to run the notebooks: Simply [click here]
-
 
 [Click here]: https://mybinder.org/v2/gh/xbresson/CE9010_2018/master
 
-dsasadasdsad
 
 
-dsadsadsadsa
 
 
 [git]: https://git-scm.com
