@@ -26,7 +26,7 @@ For a local installation, it is recommended to install [Miniconda], a distributi
 
 [Conda command lines for packages and environments]: conda/conda_cheatsheet.pdf
 
-<br>
+<br> 
 
 
 
