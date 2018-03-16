@@ -72,9 +72,9 @@ The following times:
 
 
 <br>
-Fresh installation of the GitHub repository: 
+Clean re-installation of the GitHub repository: 
 
-1. For GitHub beginners who wish to start from a clean GitHub repository of the course. 
+1. For GitHub beginners who wish to re-start from a clean GitHub repository of the course. 
 1. It is first recommended to backup the current folder by changing the folder name `CE9010_2018` to `CE9010_2018_backup` (for example).
 1. Re-download the GitHub repository of the course: `git clone https://github.com/xbresson/CE9010_2018`.
 1. Copy-paste your own notebooks from `CE9010_2018_backup/tutorials` to the new folder `CE9010_2018/tutorials`.
