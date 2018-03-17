@@ -94,6 +94,7 @@ Clean re-installation of the GitHub repository:
 
 &nbsp;&nbsp;&nbsp; No Python installation needed to run the notebooks: Simply [click here].
 
+
 [Click here]: https://mybinder.org/v2/gh/xbresson/CE9010_2018/master
 
 
