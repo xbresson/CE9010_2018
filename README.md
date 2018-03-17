@@ -11,7 +11,7 @@ For a local installation, it is recommended to install Miniconda, a distribution
    * Windows: Double-click on the `Miniconda3-latest-MacOSX-x86_64.exe` file. 
    * macOS: Run `bash Miniconda3-latest-MacOSX-x86_64.sh` in your terminal.
    * Linux: Run `bash Miniconda3-latest-Linux-x86_64.sh` in your terminal.
-1. Open a terminal. Windows: Open the Anaconda Prompt terminal from the Start menu.
+1. Windows: Open the Anaconda Prompt terminal from the Start menu. MacOS: Open a terminal.
 1. Install git: `conda install git`.
 1. Download the GitHub repository of the course: `git clone https://github.com/xbresson/CE9010_2018`.
 1. Go to folder CE9010_2018 with `cd CE9010_2018`, and create a Python virtual environment with the packages required for the course: `conda env create -f environment.yml`. Note that the environment installation may take some time. 
