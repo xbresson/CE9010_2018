@@ -11,7 +11,7 @@ For a local installation, it is recommended to install Miniconda, a distribution
    * Windows: Double-click on the `Miniconda3-latest-MacOSX-x86_64.exe` file. 
    * macOS: Run `bash Miniconda3-latest-MacOSX-x86_64.sh` in your terminal.
    * Linux: Run `bash Miniconda3-latest-Linux-x86_64.sh` in your terminal.
-1. Windows: Open the Anaconda Prompt terminal from the Start menu. MacOS: Open a terminal.
+1. Windows: Open the Anaconda Prompt terminal from the Start menu. MacOS, Linux: Open a terminal.
 1. Install git: `conda install git`.
 1. Download the GitHub repository of the course: `git clone https://github.com/xbresson/CE9010_2018`.
 1. Go to folder CE9010_2018 with `cd CE9010_2018`, and create a Python virtual environment with the packages required for the course: `conda env create -f environment.yml`. Note that the environment installation may take some time. 
@@ -38,8 +38,8 @@ For a local installation, it is recommended to install Miniconda, a distribution
 
 First time:
 
-1. Windows: Open the Anaconda Prompt terminal from the Start menu. MacOS: Open a terminal.
-1. Activate the environment. Windows: `activate CE9010_2018`, macOS: `source activate CE9010_2018`.
+1. Windows: Open the Anaconda Prompt terminal from the Start menu. MacOS, Linux: Open a terminal.
+1. Activate the environment. Windows: `activate CE9010_2018`, macOS, Linux: `source activate CE9010_2018`.
 1. Start Jupyter with `jupyter notebook`. The command opens a new tab in your web browser.
 1. Go to the folder `tutorials` and duplicate the original notebook `tutorial01.ipynb` with a new name `my_tutorial01.ipynb` (for example) to avoid future conflicts, see [understanding git conflicts].
 1. Open, edit and run the notebook `my_tutorial01.ipynb` from your browser.
@@ -47,7 +47,7 @@ First time:
 1. Save your notebook with git: `git add .`, and `git commit -m tutorial01`.
 
 	Notes:<br> 
-      Windows: Folder CE9010_2018 is located at `C:\Users\user_name\CE9010_2018`. MacOS: `/Users/user_name/CE9010_2018`.<br>
+      Windows: Folder CE9010_2018 is located at `C:\Users\user_name\CE9010_2018`. MacOS, Linux: `/Users/user_name/CE9010_2018`.<br>
       Check the status of your git folder: `git status`<br>
       List of [git commands]<br>
       Windows systems may print the `warning: LF will be replaced by CRLF` when git commit. You can deactivate this warning with `git config core.autocrlf false`.
@@ -60,8 +60,8 @@ First time:
 <br>
 The next times:
 
-1. Windows: Open the Anaconda Prompt terminal from the Start menu. MacOS: Open a terminal.
-1. Activate the environment. Windows: `activate CE9010_2018`, macOS: `source activate CE9010_2018`.
+1. Windows: Open the Anaconda Prompt terminal from the Start menu. MacOS, Linux: Open a terminal.
+1. Activate the environment. Windows: `activate CE9010_2018`, macOS, Linux: `source activate CE9010_2018`.
 1. Download the new Python notebooks: Go to folder CE9010_2018 with `cd CE9010_2018`, and `git pull`. 
 1. Start Jupyter with `jupyter notebook`. The command opens a new tab in your web browser.
 1. Go to the folder `tutorials` and duplicate the original notebook `tutorial02.ipynb` with a new name `my_tutorial02.ipynb` (for example) to avoid future conflicts, see [understanding git conflicts].
