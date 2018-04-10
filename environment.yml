@@ -18,4 +18,5 @@ dependencies:
 # deep learning
 - tensorflow
 - keras
+- Pillow
 
