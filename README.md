@@ -3,9 +3,100 @@
 <br>    
 <br>
 
-## Install Python  
 
-For a local installation, it is recommended to install Miniconda, a distribution of the conda package and environment manager. Please follow the below instructions to install it and create an environment for the course:
+## Slides of the course
+<br>
+
+[Lecture 1: Introduction]
+[Lecture 1: Introduction]: slides/CE9010_lecture01_intro.pdf
+[Lecture 2: Learning Techniques]
+[Lecture 2: Learning Techniques]: slides/CE9010_lecture02_learning_techniques.pdf
+[Lecture 3: Supervised Linear Regression]
+[Lecture 3: Supervised Linear Regression]: slides/CE9010_lecture03_supervised_regression.pdf
+[Lecture 4: Supervised Classification]
+[Lecture 4: Supervised Classification]: slides/CE9010_lecture04_supervised_classification.pdf
+[Lecture 5: Gradient Descent Tricks]
+[Lecture 5: Gradient Descent Tricks]: slides/CE9010_lecture05_gradient_descent_tricks.pdf
+[Lecture 6: Generalization and Regularization]
+[Lecture 6: Generalization and Regularization]: slides/CE9010_lecture06_generalization_and_regularization.pdf
+[Lecture 7: Developing Data Science Projects]
+[Lecture 7: Developing Data Science Projects]: slides/CE9010_lecture07_developing_data_science_projects.pdf
+[Lecture 8: Unsupervised Learning]
+[Lecture 8: Unsupervised Learning]: slides/CE9010_lecture08_unsupervised_learning.pdf
+[Lecture 9: Recommender Systems]
+[Lecture 9: Recommender Systems]: slides/CE9010_lecture09_recommender_systems.pdf
+[Lecture 10: Neural Networks]
+[Lecture 10: Neural Networks]: slides/CE9010_lecture10_neural_networks.pdf
+
+
+
+<br>
+<br>
+## Python notebooks of the course
+<br>
+
+[Tutorial 1: Introduction to Python]
+[Tutorial 1: Introduction to Python]: https://github.com/xbresson/CE9010_2018/blob/master/tutorials/tutorial01.ipynb
+
+[Tutorial 2: Linear algebra in Python]
+[Tutorial 2: Linear algebra in Python]: https://github.com/xbresson/CE9010_2018/blob/master/tutorials/tutorial02.ipynb
+[Tutorial 2: Linear algebra in Python - solution]
+[Tutorial 2: Linear algebra in Python - solution]: https://github.com/xbresson/CE9010_2018/blob/master/tutorials/tutorial02_solution.ipynb
+
+[Tutorial 3: Linear supervised regression]
+[Tutorial 3: Linear supervised regression]: https://github.com/xbresson/CE9010_2018/blob/master/tutorials/tutorial03.ipynb
+[Tutorial 3: Linear supervised regression - solution]
+[Tutorial 3: Linear supervised regression - solution]: https://github.com/xbresson/CE9010_2018/blob/master/tutorials/tutorial03_solution.ipynb
+
+[Tutorial 4: Supervised classification]
+[Tutorial 4: Supervised classification]: https://github.com/xbresson/CE9010_2018/blob/master/tutorials/tutorial04.ipynb
+[Tutorial 4: Supervised classification - solution]
+[Tutorial 4: Supervised classification - solution]: https://github.com/xbresson/CE9010_2018/blob/master/tutorials/tutorial04_solution.ipynb
+
+[Tutorial 5: Polynomial supervised classification]
+[Tutorial 5: Polynomial supervised classification]: https://github.com/xbresson/CE9010_2018/blob/master/tutorials/tutorial05.ipynb
+[Tutorial 5: Polynomial supervised classification - solution]
+[Tutorial 5: Polynomial supervised classification - solution]: https://github.com/xbresson/CE9010_2018/blob/master/tutorials/tutorial05_solution.ipynb
+
+[Tutorial 6: Bias vs. variance]
+[Tutorial 6: Bias vs. variance]: https://github.com/xbresson/CE9010_2018/blob/master/tutorials/tutorial06.ipynb
+[Tutorial 6: Bias vs. variance - solution]
+[Tutorial 6: Bias vs. variance - solution]: https://github.com/xbresson/CE9010_2018/blob/master/tutorials/tutorial06_solution.ipynb
+
+[Tutorial 7: PCA]
+[Tutorial 7: PCA]: https://github.com/xbresson/CE9010_2018/blob/master/tutorials/tutorial07.ipynb
+[Tutorial 7: PCA - solution]
+[Tutorial 7: PCA - solution]: https://github.com/xbresson/CE9010_2018/blob/master/tutorials/tutorial07_solution.ipynb
+
+[Tutorial 8: Neural networks]
+[Tutorial 8: Neural networks]: https://github.com/xbresson/CE9010_2018/blob/master/tutorials/tutorial08.ipynb
+[Tutorial 8: Neural networks - solution]
+[Tutorial 8: Neural networks - solution]: https://github.com/xbresson/CE9010_2018/blob/master/tutorials/tutorial08_solution.ipynb
+
+
+
+
+
+
+<br>
+<br>
+## Running Python notebooks without local Python installation
+<br>
+
+&nbsp;&nbsp;&nbsp; Run the notebooks from the cloud using Binder: Simply [click here].
+
+[Click here]: https://mybinder.org/v2/gh/xbresson/CE9010_2018/master
+
+
+
+
+
+<br>
+<br>
+## Local Python installation
+<br>
+
+Follow the following instructions to install Miniconda and create a Python environment for the course:
 
 1. Download the Python 3.6 installer for Windows, macOS, or Linux from <https://conda.io/miniconda.html> and install with default settings. Note for Windows: If you don't know if your operating system is 32-bit or 64-bit, then open Settings-System-About-System type to find out your xx-bit system.
    * Windows: Double-click on the `Miniconda3-latest-MacOSX-x86_64.exe` file. 
@@ -27,14 +118,13 @@ For a local installation, it is recommended to install Miniconda, a distribution
 
 [Conda command lines for packages and environments]: conda/conda_cheatsheet.pdf
 
+
+
+
+
 <br> 
-
-
-
-
-
-
-## Run Python notebooks 
+## Running local Python notebooks 
+<br>
 
 First time:
 
@@ -86,18 +176,6 @@ Clean re-installation of the GitHub repository:
 
 
 
-<br>
-
-
-
-## Run Python notebooks with Binder
-
-&nbsp;&nbsp;&nbsp; No Python installation needed to run the notebooks: Simply [click here].
-
-
-[Click here]: https://mybinder.org/v2/gh/xbresson/CE9010_2018/master
-
-
 
 
 
@@ -113,4 +191,9 @@ Clean re-installation of the GitHub repository:
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+
+
 
