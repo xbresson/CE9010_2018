@@ -7,26 +7,38 @@
 ## Slides of the course
 <br>
 
+
 [Lecture 1: Introduction]
-[Lecture 1: Introduction]: slides/CE9010_lecture01_intro.pdf
+
 [Lecture 2: Learning Techniques]
-[Lecture 2: Learning Techniques]: slides/CE9010_lecture02_learning_techniques.pdf
+
 [Lecture 3: Supervised Linear Regression]
-[Lecture 3: Supervised Linear Regression]: slides/CE9010_lecture03_supervised_regression.pdf
+
 [Lecture 4: Supervised Classification]
-[Lecture 4: Supervised Classification]: slides/CE9010_lecture04_supervised_classification.pdf
+
 [Lecture 5: Gradient Descent Tricks]
-[Lecture 5: Gradient Descent Tricks]: slides/CE9010_lecture05_gradient_descent_tricks.pdf
+
 [Lecture 6: Generalization and Regularization]
-[Lecture 6: Generalization and Regularization]: slides/CE9010_lecture06_generalization_and_regularization.pdf
+
 [Lecture 7: Developing Data Science Projects]
-[Lecture 7: Developing Data Science Projects]: slides/CE9010_lecture07_developing_data_science_projects.pdf
+
 [Lecture 8: Unsupervised Learning]
-[Lecture 8: Unsupervised Learning]: slides/CE9010_lecture08_unsupervised_learning.pdf
+
 [Lecture 9: Recommender Systems]
-[Lecture 9: Recommender Systems]: slides/CE9010_lecture09_recommender_systems.pdf
+
 [Lecture 10: Neural Networks]
+
+[Lecture 1: Introduction]: slides/CE9010_lecture01_intro.pdf
+[Lecture 2: Learning Techniques]: slides/CE9010_lecture02_learning_techniques.pdf
+[Lecture 3: Supervised Linear Regression]: slides/CE9010_lecture03_supervised_regression.pdf
+[Lecture 4: Supervised Classification]: slides/CE9010_lecture04_supervised_classification.pdf
+[Lecture 5: Gradient Descent Tricks]: slides/CE9010_lecture05_gradient_descent_tricks.pdf
+[Lecture 6: Generalization and Regularization]: slides/CE9010_lecture06_generalization_and_regularization.pdf
+[Lecture 7: Developing Data Science Projects]: slides/CE9010_lecture07_developing_data_science_projects.pdf
+[Lecture 8: Unsupervised Learning]: slides/CE9010_lecture08_unsupervised_learning.pdf
+[Lecture 9: Recommender Systems]: slides/CE9010_lecture09_recommender_systems.pdf
 [Lecture 10: Neural Networks]: slides/CE9010_lecture10_neural_networks.pdf
+
 
 
 
