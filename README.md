@@ -28,6 +28,7 @@
 
 [Lecture 10: Neural Networks]
 
+
 [Lecture 1: Introduction]: slides/CE9010_lecture01_intro.pdf
 [Lecture 2: Learning Techniques]: slides/CE9010_lecture02_learning_techniques.pdf
 [Lecture 3: Supervised Linear Regression]: slides/CE9010_lecture03_supervised_regression.pdf
@@ -48,43 +49,52 @@
 <br>
 
 [Tutorial 1: Introduction to Python]
-[Tutorial 1: Introduction to Python]: https://github.com/xbresson/CE9010_2018/blob/master/tutorials/tutorial01.ipynb
 
 [Tutorial 2: Linear algebra in Python]
-[Tutorial 2: Linear algebra in Python]: https://github.com/xbresson/CE9010_2018/blob/master/tutorials/tutorial02.ipynb
+
 [Tutorial 2: Linear algebra in Python - solution]
-[Tutorial 2: Linear algebra in Python - solution]: https://github.com/xbresson/CE9010_2018/blob/master/tutorials/tutorial02_solution.ipynb
 
 [Tutorial 3: Linear supervised regression]
-[Tutorial 3: Linear supervised regression]: https://github.com/xbresson/CE9010_2018/blob/master/tutorials/tutorial03.ipynb
+
 [Tutorial 3: Linear supervised regression - solution]
-[Tutorial 3: Linear supervised regression - solution]: https://github.com/xbresson/CE9010_2018/blob/master/tutorials/tutorial03_solution.ipynb
 
 [Tutorial 4: Supervised classification]
-[Tutorial 4: Supervised classification]: https://github.com/xbresson/CE9010_2018/blob/master/tutorials/tutorial04.ipynb
+
 [Tutorial 4: Supervised classification - solution]
-[Tutorial 4: Supervised classification - solution]: https://github.com/xbresson/CE9010_2018/blob/master/tutorials/tutorial04_solution.ipynb
 
 [Tutorial 5: Polynomial supervised classification]
-[Tutorial 5: Polynomial supervised classification]: https://github.com/xbresson/CE9010_2018/blob/master/tutorials/tutorial05.ipynb
+
 [Tutorial 5: Polynomial supervised classification - solution]
-[Tutorial 5: Polynomial supervised classification - solution]: https://github.com/xbresson/CE9010_2018/blob/master/tutorials/tutorial05_solution.ipynb
 
 [Tutorial 6: Bias vs. variance]
-[Tutorial 6: Bias vs. variance]: https://github.com/xbresson/CE9010_2018/blob/master/tutorials/tutorial06.ipynb
+
 [Tutorial 6: Bias vs. variance - solution]
-[Tutorial 6: Bias vs. variance - solution]: https://github.com/xbresson/CE9010_2018/blob/master/tutorials/tutorial06_solution.ipynb
 
 [Tutorial 7: PCA]
-[Tutorial 7: PCA]: https://github.com/xbresson/CE9010_2018/blob/master/tutorials/tutorial07.ipynb
+
 [Tutorial 7: PCA - solution]
-[Tutorial 7: PCA - solution]: https://github.com/xbresson/CE9010_2018/blob/master/tutorials/tutorial07_solution.ipynb
 
 [Tutorial 8: Neural networks]
-[Tutorial 8: Neural networks]: https://github.com/xbresson/CE9010_2018/blob/master/tutorials/tutorial08.ipynb
-[Tutorial 8: Neural networks - solution]
-[Tutorial 8: Neural networks - solution]: https://github.com/xbresson/CE9010_2018/blob/master/tutorials/tutorial08_solution.ipynb
 
+[Tutorial 8: Neural networks - solution]
+
+
+
+[Tutorial 1: Introduction to Python]: https://github.com/xbresson/CE9010_2018/blob/master/tutorials/tutorial01.ipynb
+[Tutorial 2: Linear algebra in Python]: https://github.com/xbresson/CE9010_2018/blob/master/tutorials/tutorial02.ipynb
+[Tutorial 2: Linear algebra in Python - solution]: https://github.com/xbresson/CE9010_2018/blob/master/tutorials/tutorial02_solution.ipynb
+[Tutorial 3: Linear supervised regression]: https://github.com/xbresson/CE9010_2018/blob/master/tutorials/tutorial03.ipynb
+[Tutorial 3: Linear supervised regression - solution]: https://github.com/xbresson/CE9010_2018/blob/master/tutorials/tutorial03_solution.ipynb
+[Tutorial 4: Supervised classification]: https://github.com/xbresson/CE9010_2018/blob/master/tutorials/tutorial04.ipynb
+[Tutorial 4: Supervised classification - solution]: https://github.com/xbresson/CE9010_2018/blob/master/tutorials/tutorial04_solution.ipynb
+[Tutorial 5: Polynomial supervised classification]: https://github.com/xbresson/CE9010_2018/blob/master/tutorials/tutorial05.ipynb
+[Tutorial 5: Polynomial supervised classification - solution]: https://github.com/xbresson/CE9010_2018/blob/master/tutorials/tutorial05_solution.ipynb
+[Tutorial 6: Bias vs. variance]: https://github.com/xbresson/CE9010_2018/blob/master/tutorials/tutorial06.ipynb
+[Tutorial 6: Bias vs. variance - solution]: https://github.com/xbresson/CE9010_2018/blob/master/tutorials/tutorial06_solution.ipynb
+[Tutorial 7: PCA]: https://github.com/xbresson/CE9010_2018/blob/master/tutorials/tutorial07.ipynb
+[Tutorial 7: PCA - solution]: https://github.com/xbresson/CE9010_2018/blob/master/tutorials/tutorial07_solution.ipynb
+[Tutorial 8: Neural networks]: https://github.com/xbresson/CE9010_2018/blob/master/tutorials/tutorial08.ipynb
+[Tutorial 8: Neural networks - solution]: https://github.com/xbresson/CE9010_2018/blob/master/tutorials/tutorial08_solution.ipynb
 
 
 
