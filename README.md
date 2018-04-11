@@ -103,6 +103,7 @@
 
 <br>
 <br>
+
 ## Running Python notebooks without local Python installation
 <br>
 
@@ -116,6 +117,7 @@
 
 <br>
 <br>
+
 ## Local Python installation
 <br>
 
