@@ -146,8 +146,9 @@ Follow the following instructions to install Miniconda and create a Python envir
 
 
 
-
 <br> 
+<br> 
+
 ## Running local Python notebooks 
 <br>
 
@@ -173,6 +174,8 @@ First time:
 
 
 <br>
+<br>
+
 The next times:
 
 1. Windows: Open the Anaconda Prompt terminal from the Start menu. MacOS, Linux: Open a terminal.
@@ -188,6 +191,8 @@ The next times:
 
 
 <br>
+<br>
+
 Clean re-installation of the GitHub repository: 
 
 1. For GitHub beginners who wish to re-start from a clean GitHub repository of the course. 
