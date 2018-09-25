@@ -8,25 +8,25 @@
 <br>
 
 
-[Lecture 1: Introduction]
+* [Lecture 1: Introduction]
 
-[Lecture 2: Learning Techniques]
+* [Lecture 2: Learning Techniques]
 
-[Lecture 3: Supervised Linear Regression]
+* [Lecture 3: Supervised Linear Regression]
 
-[Lecture 4: Supervised Classification]
+* [Lecture 4: Supervised Classification]
 
-[Lecture 5: Gradient Descent Tricks]
+* [Lecture 5: Gradient Descent Tricks]
 
-[Lecture 6: Generalization and Regularization]
+* [Lecture 6: Generalization and Regularization]
 
-[Lecture 7: Developing Data Science Projects]
+* [Lecture 7: Developing Data Science Projects]
 
-[Lecture 8: Unsupervised Learning]
+* [Lecture 8: Unsupervised Learning]
 
-[Lecture 9: Recommender Systems]
+* [Lecture 9: Recommender Systems]
 
-[Lecture 10: Neural Networks]
+* [Lecture 10: Neural Networks]
 
 
 [Lecture 1: Introduction]: slides/CE9010_lecture01_intro.pdf
@@ -49,35 +49,35 @@
 ## Python notebooks of the course
 <br>
 
-[Tutorial 1: Introduction to Python]
+* [Tutorial 1: Introduction to Python]
 
-[Tutorial 2: Linear algebra in Python]
+* [Tutorial 2: Linear algebra in Python]
 
-[Tutorial 2: Linear algebra in Python - solution]
+* [Tutorial 2: Linear algebra in Python - solution]
 
-[Tutorial 3: Linear supervised regression]
+* [Tutorial 3: Linear supervised regression]
 
-[Tutorial 3: Linear supervised regression - solution]
+* [Tutorial 3: Linear supervised regression - solution]
 
-[Tutorial 4: Supervised classification]
+* [Tutorial 4: Supervised classification]
 
-[Tutorial 4: Supervised classification - solution]
+* [Tutorial 4: Supervised classification - solution]
 
-[Tutorial 5: Polynomial supervised classification]
+* [Tutorial 5: Polynomial supervised classification]
 
-[Tutorial 5: Polynomial supervised classification - solution]
+* [Tutorial 5: Polynomial supervised classification - solution]
 
-[Tutorial 6: Bias vs. variance]
+* [Tutorial 6: Bias vs. variance]
 
-[Tutorial 6: Bias vs. variance - solution]
+* [Tutorial 6: Bias vs. variance - solution]
 
-[Tutorial 7: PCA]
+* [Tutorial 7: PCA]
 
-[Tutorial 7: PCA - solution]
+* [Tutorial 7: PCA - solution]
 
-[Tutorial 8: Neural networks]
+* [Tutorial 8: Neural networks]
 
-[Tutorial 8: Neural networks - solution]
+* [Tutorial 8: Neural networks - solution]
 
 
 
@@ -96,6 +96,44 @@
 [Tutorial 7: PCA - solution]: https://github.com/xbresson/CE9010_2018/blob/master/tutorials/tutorial07_solution.ipynb
 [Tutorial 8: Neural networks]: https://github.com/xbresson/CE9010_2018/blob/master/tutorials/tutorial08.ipynb
 [Tutorial 8: Neural networks - solution]: https://github.com/xbresson/CE9010_2018/blob/master/tutorials/tutorial08_solution.ipynb
+
+
+
+
+
+<br>
+<br>
+
+## Student Projects 
+<br>
+
+* [[Notebook][02n], [Slides][02s]] How Close Are NBS Students To Their Classmates? Cheng Jin Yee (Jinny), Jeremy Jerome Chia
+[02n]: projects/group02/group02_notebook_CE9010_2018.ipynb
+[02s]: projects/group02/group02_presentation_CE9010_2018.pdf
+
+
+* [[Notebook][09n], [Slides][09s]] A Look into rental fee on PropertyGuru, Chong Ke Xin
+[09n]: projects/group09/
+[09s]: projects/group09/group09_presentation_CE9010_2018.pdf
+
+
+* [[Notebook][10n], [Slides][10s]] Gender Prediction Based on Profile Photo, Chen Zitong, Jin Ye, Xiao Fengtong
+[10n]: projects/group10/group10_notebook_CE9010_2018.ipynb
+[10s]: projects/group10/group10_presentation_CE9010_2018.pdf
+
+
+* [[Notebook][14n], [Slides][14s]] Predicting Success in the NBA, Cai Xin Qing Yeo Ngee Chong
+[14n]: projects/group14/group14_notebook_CE9010_2018.ipynb
+[14s]: projects/group14/group14_presentation_CE9010_2018.pdf
+
+
+* [[Notebook][19n], [Slides][19s]] Predicting HDB Resale Prices in Singapore, Thomas ten Hacken, Maxime Kayser, Mei-Jun Yeh
+[19n]: projects/group19/group19_notebook_CE9010_2018.ipynb
+[19s]: projects/group19/group19_presentation_CE9010_2018.pdf
+
+
+
+
 
 
 

@@ -1,0 +1,620 @@
+0,Citylights,Partially Furnished Condominium,721 sqft ,80 Jellicoe Road, Ready to move,2,1,"S$ 3,500 /mo",EW11 Lavender MRT Station,0.12 km
+1,City Square Residences,Fully Furnished Condominium,840 sqft ,8 Kitchener Link, Ready to move,2,2,"S$ 3,500 /mo",EW11 Lavender MRT Station,0.64 km
+2,City Square Residences,Partially Furnished Condominium,1206 sqft ,8 Kitchener Link, Ready to move,3,3,"S$ 4,300 /mo",EW11 Lavender MRT Station,0.64 km
+3,Citylights,Partially Furnished Condominium,732 sqft ,80 Jellicoe Road, Available from 1 May,2,1,"S$ 3,400 /mo",EW11 Lavender MRT Station,0.12 km
+4,Concourse Skyline,Partially Furnished Condominium,1162 sqft ,296 Beach Road, Available from 18 Jun,1,2,"S$ 5,700 /mo",EW11 Lavender MRT Station,0.78 km
+5,City Square Residences,Partially Furnished Condominium,1238 sqft ,8 Kitchener Link, Ready to move,3,3,"S$ 4,600 /mo",EW11 Lavender MRT Station,0.64 km
+6,Citylights,Fully Furnished Condominium,678 sqft ,90 Jellicoe Road, Ready to move,1,1,"S$ 3,300 /mo",EW11 Lavender MRT Station,0.12 km
+7,Kerrisdale,Partially Furnished Condominium,1259 sqft ,30 Sturdee Road, Available from 16 Apr,3,3,"S$ 3,600 /mo",EW11 Lavender MRT Station,0.86 km
+8,Kerrisdale,Fully Furnished Condominium,1259 sqft ,30 Sturdee Road, Ready to move,3,3,"S$ 3,800 /mo",EW11 Lavender MRT Station,0.86 km
+9,1 Beach Road,Fully Furnished HDB Apartment,785 sqft ,1 Beach Road, S$ 3.18 psf,2,1,"S$ 2,500 /mo",EW11 Lavender MRT Station,0.48 km
+10,City Square Residences,Fully Furnished Condominium,1216 sqft ,8 Kitchener Link, Ready to move,3,3,"S$ 4,300 /mo",EW11 Lavender MRT Station,0.64 km
+11,City Square Residences,Fully Furnished Condominium,1216 sqft ,14 Kitchener Link, Available from 30 Apr,3,3,"S$ 4,500 /mo",EW11 Lavender MRT Station,0.64 km
+12,City Square Residences,Fully Furnished Condominium,872 sqft ,12 Kitchener Link, S$ 4.01 psf,2,2,"S$ 3,500 /mo",EW11 Lavender MRT Station,0.64 km
+13,City Square Residences,Fully Furnished Condominium,1206 sqft ,8 Kitchener Link, Ready to move,3,3,"S$ 4,300 /mo",EW11 Lavender MRT Station,0.64 km
+14,Concourse Skyline,Partially Furnished Condominium,1668 sqft ,300 Beach Road, Ready to move,3,3,"S$ 6,200 /mo",EW11 Lavender MRT Station,0.78 km
+15,17 Beach Road,Fully Furnished HDB Apartment,1121 sqft ,17 Beach Road, Ready to move,3,1,"S$ 2,500 /mo",EW11 Lavender MRT Station,0.42 km
+16,Concourse Skyline,Partially Furnished Condominium,1668 sqft ,300 Beach Road, Ready to move,3,3,"S$ 6,300 /mo",EW11 Lavender MRT Station,0.78 km
+17,The Riverine By The Park,Fully Furnished Apartment,1313 sqft ,398 Kallang Road, Ready to move,3,2,"S$ 4,600 /mo",EW11 Lavender MRT Station,0.70 km
+18,Southbank,Partially Furnished Apartment,904 sqft ,881 North Bridge Road, Ready to move,2,2,"S$ 3,600 /mo",EW11 Lavender MRT Station,0.22 km
+19,Tyrwhitt 139,Fully Furnished Apartment,560 sqft ,135A Tyrwhitt Road, Ready to move,Studio,0,"S$ 2,900 /mo",EW11 Lavender MRT Station,0.57 km
+0,Southbank,Partially Furnished Condominium,958 sqft ,881 North Bridge Road, Available from 22 Apr,2,2,"S$ 4,100 /mo",EW11 Lavender MRT Station,0.22 km
+1,Concourse Skyline,Partially Furnished Condominium,2600 sqft ,300 Beach Road, Ready to move,4,3,"S$ 8,000 /mo",EW11 Lavender MRT Station,0.78 km
+2,Concourse Skyline,Partially Furnished Condominium,1668 sqft ,300 Beach Road, Ready to move,3,3,"S$ 6,300 /mo",EW11 Lavender MRT Station,0.78 km
+3,1 Beach Road,Fully Furnished HDB Apartment,731 sqft ,1 Beach Road, Ready to move,2,1,"S$ 2,500 /mo",EW11 Lavender MRT Station,0.48 km
+4,City Square Residences,Fully Furnished Condominium,570 sqft ,8 Kitchener Link, Available from 1 Jun,1,1,"S$ 2,800 /mo",EW11 Lavender MRT Station,0.64 km
+5,641 Rowell Road,HDB Apartment,1195 sqft ,641 Rowell Road, Available from 1 May,3,2,"S$ 3,000 /mo",EW11 Lavender MRT Station,0.89 km
+6,City Square Residences,Condominium,570 sqft ,8 Kitchener Link, Ready to move,Studio,0,"S$ 2,850 /mo",EW11 Lavender MRT Station,0.64 km
+7,131 Tyrwhitt,Fully Furnished Terraced House,250 sqft ,131 Tyrwhitt, Ready to move,Room,0,"S$ 1,300 /mo",EW11 Lavender MRT Station,0.52 km
+8,Kerrisdale,Fully Furnished Condominium,990 sqft ,30 Sturdee Road, Ready to move,2,3,"S$ 3,500 /mo",EW11 Lavender MRT Station,0.86 km
+9,The Riverine By The Park,Partially Furnished Apartment,1776 sqft ,398 Kallang Road, Ready to move,4,4,"S$ 6,000 /mo",EW11 Lavender MRT Station,0.70 km
+10,Citylights,Fully Furnished Condominium,687 sqft ,88 Jellicoe Road, Ready to move,2,2,"S$ 3,600 /mo",EW11 Lavender MRT Station,0.12 km
+11,City Square Residences,Fully Furnished Condominium,1216 sqft ,8 Kitchener Link, Available from 30 Apr,3,3,"S$ 4,600 /mo",EW11 Lavender MRT Station,0.64 km
+12,The Plaza,Fully Furnished Apartment,600 sqft ,7500A Beach Road, Ready to move,1,1,"S$ 2,588 /mo",EW11 Lavender MRT Station,0.98 km
+13,The Riverine By The Park,Fully Furnished Apartment,1206 sqft ,398 Kallang Road, Ready to move,3,2,"S$ 4,300 /mo",EW11 Lavender MRT Station,0.70 km
+14,The Plaza,Fully Furnished Apartment,807 sqft ,7500A Beach Road, Ready to move,2,2,"S$ 3,200 /mo",EW11 Lavender MRT Station,0.98 km
+15,City Square Residences,Fully Furnished Condominium,872 sqft ,8 Kitchener Link, S$ 4.01 psf,2,2,"S$ 3,500 /mo",EW11 Lavender MRT Station,0.64 km
+16,Concourse Skyline,Fully Furnished Condominium,1087 sqft ,300 Beach Road, Available from 1 Jun,2,2,"S$ 5,200 /mo",EW11 Lavender MRT Station,0.78 km
+17,Concourse Skyline,Partially Furnished Condominium,785 sqft ,296 Beach Road, Ready to move,1,1,"S$ 3,800 /mo",EW11 Lavender MRT Station,0.78 km
+18,Concourse Skyline,Fully Furnished Condominium,861 sqft ,300 Beach Road, Ready to move,1,1,"S$ 4,300 /mo",EW11 Lavender MRT Station,0.78 km
+19,The Riverine By The Park,Partially Furnished Apartment,1755 sqft ,398 Kallang Road, Ready to move,4,3,"S$ 5,900 /mo",EW11 Lavender MRT Station,0.70 km
+0,The Riverine By The Park,Partially Furnished Apartment,1206 sqft ,398 Kallang Road, Available from 1 Jul,3,2,"S$ 4,800 /mo",EW11 Lavender MRT Station,0.70 km
+1,Citylights,Partially Furnished Condominium,1894 sqft ,80 Jellicoe Road, Ready to move,3,2,"S$ 7,000 /mo",EW11 Lavender MRT Station,0.12 km
+2,Concourse Skyline,Partially Furnished Condominium,11130 sqft ,300 Beach Road, Ready to move,5,8,"S$ 30,000 /mo",EW11 Lavender MRT Station,0.78 km
+3,The Riverine By The Park,Partially Furnished Condominium,1205 sqft ,398 Kallang Road, S$ 3.73 psf,3,3,"S$ 4,500 /mo",EW11 Lavender MRT Station,0.70 km
+4,City Square Residences,Fully Furnished Condominium,571 sqft ,8 Kitchener Link, Available from 2 May,1,1,"S$ 2,600 /mo",EW11 Lavender MRT Station,0.64 km
+5,Southbank,Fully Furnished Apartment,614 sqft ,881 North Bridge Road, S$ 5.37 psf,1,1,"S$ 3,300 /mo",EW11 Lavender MRT Station,0.22 km
+6,Concourse Skyline,Partially Furnished Condominium,1141 sqft ,296 Beach Road, Ready to move,2,2,"S$ 5,000 /mo",EW11 Lavender MRT Station,0.78 km
+7,806 King George's Avenue,Fully Furnished HDB Apartment,90 sqft ,806 King George's Avenue, Ready to move,Room,0,S$ 750 /mo,EW11 Lavender MRT Station,0.25 km
+8,Kerrisdale,Partially Furnished Condominium,990 sqft ,30 Sturdee Road, Ready to move,2,2,"S$ 3,600 /mo",EW11 Lavender MRT Station,0.86 km
+9,Southbank,Partially Furnished Condominium,985 sqft ,881 North Bridge Road, Ready to move,2,2,"S$ 4,100 /mo",EW11 Lavender MRT Station,0.22 km
+10,2 Beach Road,Fully Furnished HDB Apartment,797 sqft ,2 Beach Road, Ready to move,2,1,"S$ 2,300 /mo",EW11 Lavender MRT Station,0.45 km
+11,Sturdee View,Partially Furnished Apartment,1475 sqft ,60 Sturdee Road North, Ready to move,4,3,"S$ 3,650 /mo",EW11 Lavender MRT Station,0.91 km
+12,Concourse Skyline,Fully Furnished Condominium,818 sqft ,298 Beach Road, Ready to move,1,1,"S$ 4,200 /mo",EW11 Lavender MRT Station,0.78 km
+13,Citylights,Fully Furnished Condominium,678 sqft ,88 Jellicoe Road, S$ 4.72 psf,1,1,"S$ 3,200 /mo",EW11 Lavender MRT Station,0.12 km
+14,Southbank,Partially Furnished Condominium,958 sqft ,881 North Bridge Road, Ready to move,2,2,"S$ 4,000 /mo",EW11 Lavender MRT Station,0.22 km
+15,Citylights,Partially Furnished Condominium,1894 sqft ,90 Jellicoe Road, Ready to move,3,3,"S$ 7,500 /mo",EW11 Lavender MRT Station,0.12 km
+16,City Square Residences,Fully Furnished Condominium,839 sqft ,8 Kitchener Link, Ready to move,2,2,"S$ 3,400 /mo",EW11 Lavender MRT Station,0.64 km
+17,City Square Residences,Fully Furnished Condominium,840 sqft ,8 Kitchener Link, Ready to move,2,2,"S$ 3,500 /mo",EW11 Lavender MRT Station,0.64 km
+18,Blk 26 Jalan Bersih,Fully Furnished HDB Apartment,120 sqft ,26 Jalan Berseh, S$ 5.42 psf,Room,0,S$ 650 /mo,EW11 Lavender MRT Station,0.61 km
+19,City Square Residences,Partially Furnished Condominium,570 sqft ,8 Kitchener Link, Ready to move,1,1,"S$ 2,700 /mo",EW11 Lavender MRT Station,0.64 km
+0,Concourse Skyline,Fully Furnished Condominium,787 sqft ,298 Beach Road, Ready to move,1,1,"S$ 3,800 /mo",EW11 Lavender MRT Station,0.78 km
+1,Concourse Skyline,Partially Furnished Condominium,786 sqft ,298 Beach Road, Ready to move,1,1,"S$ 3,800 /mo",EW11 Lavender MRT Station,0.78 km
+2,Concourse Skyline,Partially Furnished Condominium,1087 sqft ,300 Beach Road, Ready to move,2,2,"S$ 5,100 /mo",EW11 Lavender MRT Station,0.78 km
+3,Southbank,Partially Furnished Apartment,1313 sqft ,881 North Bridge Road, Available from 20 May,3,3,"S$ 5,800 /mo",EW11 Lavender MRT Station,0.22 km
+4,Jalan Besar Plaza,Partially Furnished Apartment,600 sqft ,101 Kitchener Road, Ready to move,2,1,"S$ 1,700 /mo",EW11 Lavender MRT Station,0.57 km
+5,City Square Residences,Fully Furnished Condominium,570 sqft ,8 Kitchener Link, Ready to move,Studio,0,"S$ 2,300 /mo",EW11 Lavender MRT Station,0.64 km
+6,City Square Residences,Partially Furnished Condominium,1600 sqft ,12 Kitchener Link, Available from 6 May,4,3,"S$ 5,200 /mo",EW11 Lavender MRT Station,0.64 km
+7,Southbank,Partially Furnished Apartment,614 sqft ,881 North Bridge Road, Ready to move,1,1,"S$ 3,200 /mo",EW11 Lavender MRT Station,0.22 km
+8,Citylights,Fully Furnished Condominium,560 sqft ,86 Jellicoe Road, Ready to move,1,1,"S$ 3,000 /mo",EW11 Lavender MRT Station,0.12 km
+9,Kerrisdale,Fully Furnished Condominium,1259 sqft ,32 Sturdee Road, Ready to move,3,3,"S$ 4,000 /mo",EW11 Lavender MRT Station,0.86 km
+10,The Citron Residences,Partially Furnished Apartment,667 sqft ,1 marne road, S$ 4.20 psf,2,2,"S$ 2,800 /mo",EW11 Lavender MRT Station,0.85 km
+11,City Square Residences,Fully Furnished Condominium,1216 sqft ,14 Kitchener Link, Available from 30 Apr,3,2,"S$ 4,800 /mo",EW11 Lavender MRT Station,0.64 km
+12,City Square Residences,Fully Furnished Condominium,150 sqft ,8 Kitchener Link, Ready to move,Room,0,"S$ 1,200 /mo",EW11 Lavender MRT Station,0.64 km
+13,City Square Residences,Fully Furnished Condominium,220 sqft ,6 Kitchener Link, Ready to move,Room,0,"S$ 1,800 /mo",EW11 Lavender MRT Station,0.64 km
+14,Southbank,Fully Furnished Condominium,592 sqft ,881 North Bridge Road, Ready to move,1,1,"S$ 3,200 /mo",EW11 Lavender MRT Station,0.22 km
+15,The Citron Residences,Partially Furnished Apartment,721 sqft ,1 marne road, Ready to move,2,2,"S$ 3,700 /mo",EW11 Lavender MRT Station,0.85 km
+16,Le Somme,Partially Furnished Condominium,495 sqft ,60 Somme Road, Ready to move,1,1,"S$ 2,300 /mo",EW11 Lavender MRT Station,0.67 km
+17,City Square Residences,Partially Furnished Condominium,1216 sqft ,8 Kitchener Link, Ready to move,3,2,"S$ 4,000 /mo",EW11 Lavender MRT Station,0.64 km
+18,Concourse Skyline,Partially Furnished Condominium,818 sqft ,298 Beach Road, Ready to move,1,1,"S$ 4,000 /mo",EW11 Lavender MRT Station,0.78 km
+19,Citylights,Fully Furnished Condominium,560 sqft ,80 Jellicoe Road, Ready to move,1,1,"S$ 2,900 /mo",EW11 Lavender MRT Station,0.12 km
+0,The Citron Residences,Partially Furnished Apartment,646 sqft ,1 marne road, Ready to move,2,2,"S$ 2,800 /mo",EW11 Lavender MRT Station,0.85 km
+1,Kelantan Lodge,Fully Furnished Apartment,334 sqft ,29 Kelantan Lane, Available from 1 May,Studio,0,"S$ 1,900 /mo",EW11 Lavender MRT Station,0.68 km
+2,Concourse Skyline,Partially Furnished Condominium,1151 sqft ,300 Beach Road, Ready to move,2,2,"S$ 5,200 /mo",EW11 Lavender MRT Station,0.78 km
+3,Le Somme,Partially Furnished Condominium,495 sqft ,60 Somme Road, Ready to move,1,1,"S$ 2,300 /mo",EW11 Lavender MRT Station,0.67 km
+4,City Square Residences,Condominium,840 sqft ,2 Kitchener Link, Ready to move,2,2,"S$ 3,300 /mo",EW11 Lavender MRT Station,0.64 km
+5,Concourse Skyline,Partially Furnished Condominium,2648 sqft ,300 Beach Road, Ready to move,4,3,"S$ 8,000 /mo",EW11 Lavender MRT Station,0.78 km
+6,Citylights,Partially Furnished Apartment,1894 sqft ,80 Jellicoe Road, Available from 15 May,3,4,"S$ 7,000 /mo",EW11 Lavender MRT Station,0.12 km
+7,City Square Residences,Fully Furnished Condominium,570 sqft ,6 Kitchener Link, Available from 27 Apr,Studio,0,"S$ 2,950 /mo",EW11 Lavender MRT Station,0.64 km
+8,Southbank,Fully Furnished Condominium,958 sqft ,881 North Bridge Road, Ready to move,2,2,"S$ 3,800 /mo",EW11 Lavender MRT Station,0.22 km
+9,The Plaza,Partially Furnished Apartment,947 sqft ,7500A Beach Road, Ready to move,4,1,"S$ 3,000 /mo",EW11 Lavender MRT Station,0.98 km
+10,Citylights,Partially Furnished Condominium,1894 sqft ,90 Jellicoe Road, Ready to move,3,2,"S$ 7,000 /mo",EW11 Lavender MRT Station,0.12 km
+11,The Citron Residences,Fully Furnished Apartment,667 sqft ,1 marne road, Ready to move,2,2,"S$ 3,500 /mo",EW11 Lavender MRT Station,0.85 km
+12,Concourse Skyline,Partially Furnished Condominium,1173 sqft ,300 Beach Road, Ready to move,2,2,"S$ 5,200 /mo",EW11 Lavender MRT Station,0.78 km
+13,City Square Residences,Fully Furnished Condominium,840 sqft ,2 Kitchener Link, Ready to move,2,2,"S$ 3,300 /mo",EW11 Lavender MRT Station,0.64 km
+14,636 Veerasamy Road,Partially Furnished HDB Apartment,775 sqft ,636 Veerasamy Road, Ready to move,2,2,"S$ 2,300 /mo",EW11 Lavender MRT Station,0.87 km
+15,Citylights,Fully Furnished Condominium,678 sqft ,80 Jellicoe Road, Ready to move,2,1,"S$ 3,400 /mo",EW11 Lavender MRT Station,0.12 km
+16,The Citron Residences,Partially Furnished Apartment,741 sqft ,1 marne road, Ready to move,2,2,"S$ 3,000 /mo",EW11 Lavender MRT Station,0.85 km
+17,The Riverine By The Park,Partially Furnished Apartment,1755 sqft ,398 Kallang Road, Ready to move,4,4,"S$ 8,000 /mo",EW11 Lavender MRT Station,0.70 km
+18,Citylights,Partially Furnished Condominium,1895 sqft ,90 Jellicoe Road, Ready to move,3,3,"S$ 7,500 /mo",EW11 Lavender MRT Station,0.12 km
+19,Citylights,Fully Furnished Condominium,893 sqft ,80 Jellicoe Road, Ready to move,2,2,"S$ 4,000 /mo",EW11 Lavender MRT Station,0.12 km
+0,City Square Residences,Fully Furnished Condominium,1216 sqft ,8 Kitchener Link, Ready to move,3,3,"S$ 4,300 /mo",EW11 Lavender MRT Station,0.64 km
+1,Citylights,Fully Furnished Condominium,893 sqft ,80 Jellicoe Road, Available from 15 Jun,2,2,"S$ 3,999 /mo",EW11 Lavender MRT Station,0.12 km
+2,Studios @ Marne,Fully Furnished Apartment,592 sqft ,2 Marne Road, Ready to move,2,1,"S$ 2,499 /mo",EW11 Lavender MRT Station,0.91 km
+3,IR3 - Petain Road Conservation Sensation Terrace!,Partially Furnished Conservation House,"5000 sqft, 1500 sqft (land) ","Near by Beatty Rd, Serangoon Rd, Petain Rd", Ready to move,4,5,"S$ 9,000 /mo",EW11 Lavender MRT Station,0.77 km
+4,City Square Residences,Partially Furnished Condominium,872 sqft ,8 Kitchener Link, Ready to move,2,2,"S$ 3,400 /mo",EW11 Lavender MRT Station,0.64 km
+5,Southbank,Condominium,1184 sqft ,881 North Bridge Road, Ready to move,1,2,"S$ 4,800 /mo",EW11 Lavender MRT Station,0.22 km
+6,Southbank,Partially Furnished Condominium,883 sqft ,881 North Bridge Road, Ready to move,1,2,"S$ 3,500 /mo",EW11 Lavender MRT Station,0.22 km
+7,Kerrisdale,Partially Furnished Condominium,990 sqft ,30 Sturdee Road, Ready to move,2,3,"S$ 3,700 /mo",EW11 Lavender MRT Station,0.86 km
+8,Concourse Skyline,Fully Furnished Condominium,1087 sqft ,296 Beach Road, Ready to move,1,1,"S$ 4,800 /mo",EW11 Lavender MRT Station,0.78 km
+9,Kerrisdale,Fully Furnished Condominium,1260 sqft ,30 Sturdee Road, Ready to move,3,3,"S$ 4,000 /mo",EW11 Lavender MRT Station,0.86 km
+10,City Square Residences,Fully Furnished Condominium,1216 sqft ,8 Kitchener Link, Ready to move,3,3,"S$ 4,300 /mo",EW11 Lavender MRT Station,0.64 km
+11,City Square Residences,Partially Furnished Condominium,1542 sqft ,8 Kitchener Link, Ready to move,4,2,"S$ 4,700 /mo",EW11 Lavender MRT Station,0.64 km
+12,Cavan Suites,Fully Furnished Apartment,322 sqft ,11 Cavan Road, Available from 5 Jul,Studio,0,"S$ 2,000 /mo",EW11 Lavender MRT Station,0.42 km
+13,City Square Residences,Fully Furnished Condominium,570 sqft ,City square res, Available from 25 Apr,Studio,0,"S$ 2,900 /mo",EW11 Lavender MRT Station,0.84 km
+14,City Square Residences,Fully Furnished Condominium,872 sqft ,8 Kitchener Link, Available from 31 May,2,2,"S$ 3,500 /mo",EW11 Lavender MRT Station,0.64 km
+15,The Plaza,Fully Furnished Apartment,764 sqft ,7500A Beach Road, Ready to move,1,1,"S$ 2,300 /mo",EW11 Lavender MRT Station,0.98 km
+16,Jalan Besar Plaza,Fully Furnished Apartment,200 sqft ,101 Kitchener Road, Ready to move,Room,0,"S$ 1,400 /mo",EW11 Lavender MRT Station,0.57 km
+17,Citylights,Condominium,560 sqft ,84 Jellicoe Road, Ready to move,1,1,"S$ 2,999 /mo",EW11 Lavender MRT Station,0.12 km
+18,Citylights,Condominium,678 sqft ,80 Jellicoe Road, Ready to move,2,1,"S$ 3,500 /mo",EW11 Lavender MRT Station,0.12 km
+19,IR3 - A Corner Conserved 4+1 W/ Rear Of 4 Storeys,Partially Furnished Conservation House,"5000 sqft, 1500 sqft (land) ","Near by Beatty Rd, Serangoon Rd, Petain Rd", Ready to move,4,5,"S$ 9,000 /mo",EW11 Lavender MRT Station,0.77 km
+0,Citylights,Partially Furnished Condominium,1894 sqft ,80 Jellicoe Road, Ready to move,3,3,"S$ 7,500 /mo",EW11 Lavender MRT Station,0.12 km
+1,City Square Residences,Fully Furnished Condominium,1216 sqft ,8 Kitchener Link, Ready to move,3,3,"S$ 4,600 /mo",EW11 Lavender MRT Station,0.64 km
+2,24 Verdun Road,Fully Furnished Apartment,230 sqft ,24 Verdun Road, Ready to move,Studio,0,"S$ 1,750 /mo",EW11 Lavender MRT Station,0.80 km
+3,Verdun Road,Fully Furnished Apartment,300 sqft ,24 Verdun Road, Ready to move,Studio,0,"S$ 1,850 /mo",EW11 Lavender MRT Station,0.80 km
+4,807 King George's Avenue,Fully Furnished HDB Apartment,1258 sqft ,807 King George's Avenue, Ready to move,3,2,"S$ 3,150 /mo",EW11 Lavender MRT Station,0.27 km
+5,City Square Residences,Condominium,250 sqft ,8 Kitchener Link, Ready to move,Room,0,"S$ 1,800 /mo",EW11 Lavender MRT Station,0.64 km
+6,Textile Centre,Fully Furnished Apartment,160 sqft ,200 Jalan Sultan, Ready to move,Room,0,S$ 350 /mo,EW11 Lavender MRT Station,0.45 km
+7,Kerrisdale,Partially Furnished Condominium,120 sqft ,30 Sturdee Road, Ready to move,Room,0,"S$ 1,200 /mo",EW11 Lavender MRT Station,0.86 km
+8,Tyrwhitt 139,Fully Furnished Apartment,345 sqft ,139 Tyrwhitt Road, Ready to move,1,1,"S$ 1,750 /mo",EW11 Lavender MRT Station,0.57 km
+9,Concourse Skyline,Partially Furnished Condominium,786 sqft ,300 Beach Road, Ready to move,1,1,"S$ 3,700 /mo",EW11 Lavender MRT Station,0.78 km
+10,Citylights,Fully Furnished Condominium,280 sqft ,82 Jellicoe Road, Ready to move,Room,0,"S$ 2,000 /mo",EW11 Lavender MRT Station,0.12 km
+11,Citylights,Partially Furnished Condominium,678 sqft ,88 Jellicoe Road, Ready to move,1,1,"S$ 3,300 /mo",EW11 Lavender MRT Station,0.12 km
+12,The Plaza,Fully Furnished Apartment,678 sqft ,7500A Beach Road, Ready to move,1,1,"S$ 2,500 /mo",EW11 Lavender MRT Station,0.98 km
+13,City Square Residences,Fully Furnished Condominium,570 sqft ,6 Kitchener Link, Ready to move,Studio,0,"S$ 2,850 /mo",EW11 Lavender MRT Station,0.64 km
+14,City Square Residences,Fully Furnished Condominium,1216 sqft ,8 Kitchener Link, Ready to move,3,2,"S$ 4,300 /mo",EW11 Lavender MRT Station,0.64 km
+15,Concourse Skyline,Partially Furnished Condominium,861 sqft ,300 Beach Road, Ready to move,1,1,"S$ 4,000 /mo",EW11 Lavender MRT Station,0.78 km
+16,City Square Residences,Partially Furnished Condominium,1206 sqft ,14 Kitchener Link, Ready to move,3,3,"S$ 4,200 /mo",EW11 Lavender MRT Station,0.64 km
+17,Textile Centre,Fully Furnished Apartment,900 sqft ,200 Jalan Sultan, Available from 17 Apr,2,2,"S$ 2,900 /mo",EW11 Lavender MRT Station,0.45 km
+18,Concourse Skyline,Condominium,861 sqft ,300 Beach Road, Ready to move,1,1,"S$ 4,300 /mo",EW11 Lavender MRT Station,0.78 km
+19,30 Kelantan Road,Fully Furnished HDB Apartment,1000 sqft ,30 Kelantan Road, Ready to move,3,2,"S$ 2,300 /mo",EW11 Lavender MRT Station,0.74 km
+0,The Citron Residences,Partially Furnished Apartment,387 sqft ,1 marne road, Ready to move,1,1,"S$ 2,300 /mo",EW11 Lavender MRT Station,0.85 km
+1,The Riverine By The Park,Partially Furnished Condominium,1205 sqft ,398 Kallang Road, S$ 3.73 psf,3,3,"S$ 4,500 /mo",EW11 Lavender MRT Station,0.70 km
+2,City Square Residences,Fully Furnished Condominium,570 sqft ,6 Kitchener Link, Ready to move,1,1,"S$ 2,800 /mo",EW11 Lavender MRT Station,0.64 km
+3,City Square Residences,Condominium,150 sqft ,8 Kitchener Link, Ready to move,Room,0,"S$ 1,200 /mo",EW11 Lavender MRT Station,0.64 km
+4,Kerrisdale,Unfurnished Condominium,1259 sqft ,32 Sturdee Road, Ready to move,3,3,"S$ 4,500 /mo",EW11 Lavender MRT Station,0.86 km
+5,Kerrisdale,Fully Furnished Condominium,990 sqft ,30 Sturdee Road, Ready to move,2,3,"S$ 3,300 /mo",EW11 Lavender MRT Station,0.86 km
+6,Kerrisdale,Partially Furnished Condominium,1270 sqft ,32 Sturdee Road, Ready to move,3,3,"S$ 3,800 /mo",EW11 Lavender MRT Station,0.86 km
+7,Kerrisdale,Condominium,150 sqft ,30 Sturdee Road, Ready to move,Room,0,"S$ 1,200 /mo",EW11 Lavender MRT Station,0.86 km
+8,Kerrisdale,Partially Furnished Condominium,1281 sqft ,32 Sturdee Road, Ready to move,3,3,"S$ 3,900 /mo",EW11 Lavender MRT Station,0.86 km
+9,Verdun House,Fully Furnished Apartment,298 sqft ,(within 0.79 km), Ready to move,Studio,0,"S$ 1,800 /mo",EW11 Lavender MRT Station,0.79 km
+10,The Riverine By The Park,Partially Furnished Apartment,1302 sqft ,398 Kallang Road, Ready to move,3,2,"S$ 4,900 /mo",EW11 Lavender MRT Station,0.70 km
+11,Southbank,Partially Furnished Condominium,958 sqft ,881 North Bridge Road, Ready to move,2,2,"S$ 4,000 /mo",EW11 Lavender MRT Station,0.22 km
+12,The Citron Residences,Partially Furnished Apartment,667 sqft ,1 marne road, Ready to move,2,2,"S$ 3,000 /mo",EW11 Lavender MRT Station,0.85 km
+13,Citylights,Fully Furnished Condominium,570 sqft ,88 Jellicoe Road, Ready to move,1,1,"S$ 3,000 /mo",EW11 Lavender MRT Station,0.12 km
+14,City Square Residences,Partially Furnished Condominium,872 sqft ,8 Kitchener Link, Ready to move,2,2,"S$ 3,300 /mo",EW11 Lavender MRT Station,0.64 km
+15,The Citron Residences,Apartment,400 sqft ,1 marne road, Ready to move,1,1,"S$ 2,050 /mo",EW11 Lavender MRT Station,0.85 km
+16,City Square Residences,Partially Furnished Condominium,200 sqft ,8 Kitchener Link, S$ 9.50 psf,Room,0,"S$ 1,900 /mo",EW11 Lavender MRT Station,0.64 km
+17,The Riverine By The Park,Partially Furnished Apartment,1313 sqft ,398 Kallang Road, Ready to move,3,3,"S$ 4,300 /mo",EW11 Lavender MRT Station,0.70 km
+18,Textile Centre,Fully Furnished Apartment,200 sqft ,200 Jalan Sultan, S$ 7.00 psf,Room,0,"S$ 1,400 /mo",EW11 Lavender MRT Station,0.45 km
+19,24 Verdun Road,Fully Furnished Apartment,230 sqft ,24 verdun road, Ready to move,1,1,"S$ 1,850 /mo",EW11 Lavender MRT Station,0.80 km
+0,8A Upper Boon Keng Road,Fully Furnished HDB Apartment,150 sqft ,8A Upper Boon Keng Road, Ready to move,Room,0,S$ 850 /mo,EW11 Lavender MRT Station,0.99 km
+1,City Square Residences,Fully Furnished Condominium,570 sqft ,8 Kitchener Link, Ready to move,1,1,"S$ 2,800 /mo",EW11 Lavender MRT Station,0.64 km
+2,Southbank,Partially Furnished Condominium,969 sqft ,881 North Bridge Road, Ready to move,2,2,"S$ 4,300 /mo",EW11 Lavender MRT Station,0.24 km
+3,813 Jellicoe Road,HDB Apartment,50 sqft ,813 Jellicoe Road, S$ 16.00 psf,Room,0,S$ 800 /mo,EW11 Lavender MRT Station,0.16 km
+4,26 Hamilton Road,Partially Furnished Shophouse,150 sqft ,26 Hamilton Road, Ready to move,Room,0,S$ 750 /mo,EW11 Lavender MRT Station,0.49 km
+5,City Square Residences,Fully Furnished Condominium,570 sqft ,8 Kitchener Link, Ready to move,1,1,"S$ 2,600 /mo",EW11 Lavender MRT Station,0.64 km
+6,Citylights,Fully Furnished Condominium,678 sqft ,80 Jellicoe Road, Ready to move,2,1,"S$ 3,300 /mo",EW11 Lavender MRT Station,0.12 km
+7,Citylights,Partially Furnished Condominium,926 sqft ,90 Jellicoe Road, Available from 21 Apr,2,2,"S$ 4,300 /mo",EW11 Lavender MRT Station,0.12 km
+8,The Riverine By The Park,Fully Furnished Apartment,1205 sqft ,398 Kallang Road, Ready to move,3,3,"S$ 5,100 /mo",EW11 Lavender MRT Station,0.70 km
+9,Citylights,Fully Furnished Condominium,892 sqft ,80 Jellicoe Road, Ready to move,2,2,"S$ 4,400 /mo",EW11 Lavender MRT Station,0.12 km
+10,Citylights,Fully Furnished Condominium,893 sqft ,86 Jellicoe Road, Available from 16 May,2,2,"S$ 4,500 /mo",EW11 Lavender MRT Station,0.12 km
+11,City Square Residences,Partially Furnished Condominium,570 sqft ,8 Kitchener Link, Ready to move,1,1,"S$ 2,800 /mo",EW11 Lavender MRT Station,0.64 km
+12,637 Veerasamy Road,Partially Furnished HDB Apartment,1109 sqft ,637 Veerasamy Road, Ready to move,3,2,"S$ 3,300 /mo",EW11 Lavender MRT Station,0.83 km
+13,City Square Residences,Fully Furnished Condominium,1216 sqft ,8 Kitchener Link, Ready to move,3,3,"S$ 4,300 /mo",EW11 Lavender MRT Station,0.64 km
+14,813 Jellicoe Road,Fully Furnished HDB Apartment,130 sqft ,813 Jellicoe Road, Ready to move,Room,0,S$ 800 /mo,EW11 Lavender MRT Station,0.16 km
+15,816 Jellicoe Road,Fully Furnished HDB Apartment,150 sqft ,816 Jellicoe Road, Ready to move,Room,0,S$ 850 /mo,EW11 Lavender MRT Station,0.16 km
+16,City Square Residences,Fully Furnished Condominium,1216 sqft ,8 Kitchener Link, S$ 3.95 psf,3,3,"S$ 4,800 /mo",EW11 Lavender MRT Station,0.64 km
+17,City Square Residences,Fully Furnished Condominium,840 sqft ,8 Kitchener Link, Ready to move,2,2,"S$ 3,450 /mo",EW11 Lavender MRT Station,0.64 km
+18,Citylights,Condominium,1894 sqft ,80 Jellicoe Road, Ready to move,3,3,"S$ 7,500 /mo",EW11 Lavender MRT Station,0.12 km
+19,City Square Residences,Fully Furnished Condominium,570 sqft ,8 Kitchener Link, Ready to move,1,1,"S$ 2,900 /mo",EW11 Lavender MRT Station,0.64 km
+0,Sturdee View,Partially Furnished Condominium,1475 sqft ,60 Sturdee Road North, Ready to move,4,3,"S$ 3,650 /mo",EW11 Lavender MRT Station,0.91 km
+1,City Square Residences,Fully Furnished Condominium,1206 sqft ,10 Kitchener Link, Ready to move,3,3,"S$ 4,100 /mo",EW11 Lavender MRT Station,0.64 km
+2,Kerrisdale,Partially Furnished Condominium,990 sqft ,30 Sturdee Road, Available from 25 Apr,2,2,"S$ 3,500 /mo",EW11 Lavender MRT Station,0.86 km
+3,Southbank,Fully Furnished Condominium,614 sqft ,881 North Bridge Road, Ready to move,1,1,"S$ 3,200 /mo",EW11 Lavender MRT Station,0.22 km
+4,Southbank,Fully Furnished Condominium,614 sqft ,881 North Bridge Road, Ready to move,1,1,"S$ 3,500 /mo",EW11 Lavender MRT Station,0.22 km
+5,City Square Residences,Partially Furnished Condominium,1542 sqft ,8 Kitchener Link, Ready to move,4,2,"S$ 4,700 /mo",EW11 Lavender MRT Station,0.64 km
+6,24B Verdun Road,Fully Furnished Apartment,230 sqft ,24B Verdun Road, Ready to move,Studio,0,"S$ 1,800 /mo",EW11 Lavender MRT Station,0.84 km
+7,24 Verdun Road,Fully Furnished Apartment,318 sqft ,24 verdun road, S$ 5.82 psf,Studio,0,"S$ 1,850 /mo",EW11 Lavender MRT Station,0.79 km
+8,Southbank,Fully Furnished Condominium,614 sqft ,881 North Bridge Road, Ready to move,1,1,"S$ 3,500 /mo",EW11 Lavender MRT Station,0.22 km
+9,Citylights,Partially Furnished Condominium,732 sqft ,80 Jellicoe Road, Available from 15 May,2,1,"S$ 3,500 /mo",EW11 Lavender MRT Station,0.12 km
+10,The Riverine By The Park,Partially Furnished Condominium,1205 sqft ,398 Kallang Road, S$ 3.73 psf,3,3,"S$ 4,500 /mo",EW11 Lavender MRT Station,0.70 km
+11,Southbank,Fully Furnished Condominium,614 sqft ,883 North Bridge Road, S$ 6.03 psf,1,1,"S$ 3,700 /mo",EW11 Lavender MRT Station,0.22 km
+12,Dragon House ~ Petain Elegant Conserved 4 Bed,Partially Furnished Conservation House,"5000 sqft, 1500 sqft (land) ","Near by Beatty Rd, Serangoon Rd, Petain Rd", Ready to move,4,5,"S$ 9,001 /mo",EW11 Lavender MRT Station,0.77 km
+13,Concourse Skyline,Fully Furnished Condominium,820 sqft ,300 Beach Road, Ready to move,1,1,"S$ 4,000 /mo",EW11 Lavender MRT Station,0.78 km
+14,City Square Residences,Partially Furnished Condominium,1216 sqft ,2 Kitchener Link, S$ 3.29 psf,3,2,"S$ 4,000 /mo",EW11 Lavender MRT Station,0.64 km
+15,Kerrisdale,Condominium,150 sqft ,30 Sturdee Road, Ready to move,Room,0,"S$ 1,199 /mo",EW11 Lavender MRT Station,0.86 km
+16,BEST VALUE FOR MONEY 5 BED ALL ENSUITE CONSERVED,Conservation House,"5000 sqft, 1500 sqft (land) ","Near by Beatty Rd, Serangoon Rd, Petain Rd", Ready to move,4,5,"S$ 9,001 /mo",EW11 Lavender MRT Station,0.77 km
+17,City Square Residences,Fully Furnished Condominium,1215 sqft ,8 Kitchener Link, S$ 3.70 psf,3,3,"S$ 4,500 /mo",EW11 Lavender MRT Station,0.64 km
+18,Concourse Skyline,Fully Furnished Condominium,818 sqft ,298 Beach Road, Ready to move,1,0,"S$ 4,200 /mo",EW11 Lavender MRT Station,0.78 km
+19,City Square Residences,Fully Furnished Condominium,570 sqft ,14 Kitchener Link, Ready to move,1,1,"S$ 2,600 /mo",EW11 Lavender MRT Station,0.64 km
+0,Tyrwhitt 139,Fully Furnished Apartment,345 sqft ,139 Tyrwhitt Road, Ready to move,1,1,"S$ 1,750 /mo",EW11 Lavender MRT Station,0.57 km
+1,City Square Residences,Fully Furnished Condominium,570 sqft ,8 Kitchener Link, Available from 5 May,1,1,"S$ 2,900 /mo",EW11 Lavender MRT Station,0.64 km
+2,The Citron Residences,Fully Furnished Apartment,667 sqft ,1 marne road, Available from 30 Apr,2,2,"S$ 3,699 /mo",EW11 Lavender MRT Station,0.85 km
+3,City Square Residences,Partially Furnished Condominium,1206 sqft ,12 Kitchener Link, Ready to move,3,3,"S$ 4,000 /mo",EW11 Lavender MRT Station,0.64 km
+4,The Riverine By The Park,Partially Furnished Apartment,1755 sqft ,398 Kallang Road, Ready to move,4,4,"S$ 5,999 /mo",EW11 Lavender MRT Station,0.70 km
+5,48 Bendemeer Road,Fully Furnished HDB Apartment,250 sqft ,48 Bendemeer Road, Ready to move,Room,0,S$ 950 /mo,EW11 Lavender MRT Station,0.87 km
+6,Southbank,Fully Furnished Condominium,904 sqft ,881 North Bridge Road, Available from 30 Apr,2,2,"S$ 4,100 /mo",EW11 Lavender MRT Station,0.22 km
+7,The Riverine By The Park,Partially Furnished Apartment,1313 sqft ,398 Kallang Road, S$ 3.58 psf,3,3,"S$ 4,700 /mo",EW11 Lavender MRT Station,0.70 km
+8,Hoa Nam Building,Apartment,400 sqft ,27 Foch Road, Ready to move,1,1,"S$ 1,600 /mo",EW11 Lavender MRT Station,0.68 km
+9,Hoa Nam Building,Fully Furnished Apartment,600 sqft ,27 Foch Road, Ready to move,2,1,"S$ 1,780 /mo",EW11 Lavender MRT Station,0.68 km
+10,City Square Residences,Fully Furnished Condominium,840 sqft ,8 Kitchener Link, Ready to move,2,2,"S$ 3,600 /mo",EW11 Lavender MRT Station,0.64 km
+11,City Square Residences,Fully Furnished Condominium,840 sqft ,8 Kitchener Link, Ready to move,2,2,"S$ 3,400 /mo",EW11 Lavender MRT Station,0.64 km
+12,City Square Residences,Fully Furnished Condominium,1195 sqft ,6 Kitchener Link, Ready to move,3,3,"S$ 4,500 /mo",EW11 Lavender MRT Station,0.64 km
+13,City Square Residences,Condominium,1236 sqft ,8 Kitchener Link, Ready to move,3,2,"S$ 4,100 /mo",EW11 Lavender MRT Station,0.64 km
+14,Kerrisdale,Fully Furnished Condominium,1270 sqft ,30 Sturdee Road, Ready to move,3,3,"S$ 3,800 /mo",EW11 Lavender MRT Station,0.86 km
+15,462 Crawford Lane,Fully Furnished HDB Apartment,645 sqft ,462 Crawford Lane, Ready to move,2,1,"S$ 2,250 /mo",EW11 Lavender MRT Station,0.39 km
+16,8A Upper Boon Keng Road,Fully Furnished HDB Apartment,150 sqft ,8A Upper Boon Keng Road, S$ 5.33 psf,Room,0,S$ 800 /mo,EW11 Lavender MRT Station,0.99 km
+17,City Square Residences,Fully Furnished Condominium,840 sqft ,12 Kitchener Link, Ready to move,2,2,"S$ 3,300 /mo",EW11 Lavender MRT Station,0.64 km
+18,637 Veerasamy Road,Fully Furnished HDB Apartment,1248 sqft ,637 Veerasamy Road, Ready to move,3,2,"S$ 2,900 /mo",EW11 Lavender MRT Station,0.83 km
+19,Textile Centre,Fully Furnished Apartment,150 sqft ,200 Jalan Sultan, Ready to move,Studio,0,"S$ 1,250 /mo",EW11 Lavender MRT Station,0.45 km
+0,24 Verdun Road,Fully Furnished Apartment,300 sqft ,24 Verdun Road, Ready to move,Studio,0,"S$ 1,800 /mo",EW11 Lavender MRT Station,0.68 km
+1,17 Beach Road,Partially Furnished HDB Apartment,829 sqft ,17 Beach Road, Ready to move,3,2,"S$ 2,500 /mo",EW11 Lavender MRT Station,0.42 km
+2,Citylights,Fully Furnished Condominium,904 sqft ,86 Jellicoe Road, Available from 1 May,2,2,"S$ 4,200 /mo",EW11 Lavender MRT Station,0.12 km
+3,The Riverine By The Park,Partially Furnished Condominium,1205 sqft ,398 Kallang Road, Ready to move,3,3,"S$ 4,500 /mo",EW11 Lavender MRT Station,0.70 km
+4,City Square Residences,Fully Furnished Condominium,570 sqft ,10 Kitchener Link, Ready to move,Studio,0,"S$ 2,650 /mo",EW11 Lavender MRT Station,0.64 km
+5,Concourse Skyline,Fully Furnished Condominium,818 sqft ,298 Beach Road, Ready to move,1,1,"S$ 4,200 /mo",EW11 Lavender MRT Station,0.78 km
+6,City Square Residences,Partially Furnished Condominium,570 sqft ,8 Kitchener Link, Ready to move,Studio,0,"S$ 2,600 /mo",EW11 Lavender MRT Station,0.64 km
+7,The Plaza,Fully Furnished Apartment,750 sqft ,7500 Beach Road, Ready to move,1,1,"S$ 2,200 /mo",EW11 Lavender MRT Station,0.86 km
+8,Concourse Skyline,Partially Furnished Condominium,818 sqft ,296 Beach Road, Available from 11 Apr,1,1,"S$ 4,500 /mo",EW11 Lavender MRT Station,0.78 km
+9,Concourse Skyline,Partially Furnished Condominium,1152 sqft ,296 Beach Road, Ready to move,2,2,"S$ 5,000 /mo",EW11 Lavender MRT Station,0.78 km
+10,Jalan Besar Plaza,Fully Furnished Apartment,1593 sqft ,101 Kitchener Road, Ready to move,4,4,"S$ 4,500 /mo",EW11 Lavender MRT Station,0.57 km
+11,816 Jellicoe Road,Partially Furnished HDB Apartment,1184 sqft ,816 Jellicoe Road, Available from 12 Apr,2,2,"S$ 2,800 /mo",EW11 Lavender MRT Station,0.16 km
+12,Citylights,Partially Furnished Condominium,1421 sqft ,80 Jellicoe Road, Ready to move,3,3,"S$ 5,200 /mo",EW11 Lavender MRT Station,0.12 km
+13,Kerrisdale,Fully Furnished Condominium,105 sqft ,30 Sturdee Road, Ready to move,Room,0,"S$ 1,200 /mo",EW11 Lavender MRT Station,0.86 km
+14,The Citron Residences,Partially Furnished Apartment,915 sqft ,1 marne road, Ready to move,3,2,"S$ 4,200 /mo",EW11 Lavender MRT Station,0.85 km
+15,Concourse Skyline,Fully Furnished Condominium,818 sqft ,298 Beach Road, Ready to move,1,1,"S$ 4,200 /mo",EW11 Lavender MRT Station,0.78 km
+16,City Square Residences,Fully Furnished Condominium,570 sqft ,8 Kitchener Link, Ready to move,1,1,"S$ 2,950 /mo",EW11 Lavender MRT Station,0.64 km
+17,City Square Residences,Fully Furnished Condominium,1216 sqft ,8 Kitchener Link, Available from 30 Apr,3,3,"S$ 4,500 /mo",EW11 Lavender MRT Station,0.64 km
+18,City Square Residences,Fully Furnished Condominium,872 sqft ,8 Kitchener Link, Available from 31 May,2,2,"S$ 3,800 /mo",EW11 Lavender MRT Station,0.64 km
+19,Concourse Skyline,Condominium,818 sqft ,300 Beach Road, S$ 4.89 psf,1,1,"S$ 4,000 /mo",EW11 Lavender MRT Station,0.78 km
+0,City Square Residences,Fully Furnished Condominium,1216 sqft ,8 Kitchener Link, Ready to move,3,2,"S$ 4,300 /mo",EW11 Lavender MRT Station,0.64 km
+1,City Square Residences,Fully Furnished Condominium,1217 sqft ,8 Kitchener Link, Available from 30 Apr,3,3,"S$ 4,800 /mo",EW11 Lavender MRT Station,0.64 km
+2,The Plaza,Fully Furnished Apartment,679 sqft ,7500A Beach Road, Ready to move,1,1,"S$ 2,500 /mo",EW11 Lavender MRT Station,0.98 km
+3,Conservation / Heritage Style Terrace House Sturdee Road. Expats Choice,Partially Furnished Apartment,1320 sqft ,9 Sturdee Road, Ready to move,2,2,"S$ 3,700 /mo",EW11 Lavender MRT Station,0.70 km
+4,The Plaza,Apartment,840 sqft ,7500A Beach Road, S$ 3.10 psf,2,2,"S$ 2,600 /mo",EW11 Lavender MRT Station,0.98 km
+5,32 Penhas Road,Fully Furnished Apartment,200 sqft ,Penhas Road, Ready to move,Room,0,"S$ 1,400 /mo",EW11 Lavender MRT Station,0.20 km
+6,Southbank,Fully Furnished Condominium,969 sqft ,881 North Bridge Road, Ready to move,2,2,"S$ 4,100 /mo",EW11 Lavender MRT Station,0.22 km
+7,City Square Residences,Fully Furnished Condominium,150 sqft ,10 Kitchener Link, Ready to move,Room,0,"S$ 1,350 /mo",EW11 Lavender MRT Station,0.64 km
+8,Jalan Besar,Partially Furnished HDB Apartment,1386 sqft ,642 Rowell Road, Ready to move,5,2,"S$ 3,500 /mo",EW11 Lavender MRT Station,0.73 km
+9,462 Crawford Lane,Fully Furnished HDB Apartment,645 sqft ,462 Crawford Lane, Ready to move,2,1,"S$ 2,400 /mo",EW11 Lavender MRT Station,0.39 km
+10,City Square Residences,Fully Furnished Condominium,120 sqft ,8 Kitchener Link, Ready to move,Room,0,"S$ 1,200 /mo",EW11 Lavender MRT Station,0.64 km
+11,City Square Residences,Fully Furnished Condominium,1216 sqft ,14 Kitchener Link, Ready to move,3,3,"S$ 4,650 /mo",EW11 Lavender MRT Station,0.64 km
+12,Southbank,Fully Furnished Condominium,904 sqft ,881 North Bridge Road, Ready to move,2,2,"S$ 4,150 /mo",EW11 Lavender MRT Station,0.22 km
+13,The Citron Residences,Partially Furnished Apartment,667 sqft ,1 marne road, Ready to move,2,2,"S$ 2,950 /mo",EW11 Lavender MRT Station,0.85 km
+14,City Square Residences,Partially Furnished Condominium,570 sqft ,8 Kitchener Link, Ready to move,1,3,"S$ 2,800 /mo",EW11 Lavender MRT Station,0.64 km
+15,City Square Residences,Partially Furnished Condominium,1195 sqft ,8 Kitchener Link, Ready to move,3,2,"S$ 4,300 /mo",EW11 Lavender MRT Station,0.64 km
+16,Citylights,Partially Furnished Condominium,678 sqft ,80 Jellicoe Road, Available from 12 Apr,2,1,"S$ 3,300 /mo",EW11 Lavender MRT Station,0.12 km
+17,Sturdee Road,Partially Furnished Terraced House,1320 sqft ,Sturdee Rpad, Ready to move,2,2,"S$ 3,600 /mo",EW11 Lavender MRT Station,0.71 km
+18,8A Upper Boon Keng Road,Fully Furnished HDB Apartment,1000 sqft ,8A Upper Boon Keng Road, Ready to move,Room,0,S$ 880 /mo,EW11 Lavender MRT Station,0.99 km
+19,Kerrisdale,Partially Furnished Condominium,1259 sqft ,30 Sturdee Road, Available from 15 Apr,3,2,"S$ 3,800 /mo",EW11 Lavender MRT Station,0.86 km
+0,637 Veerasamy Road,Fully Furnished HDB Apartment,796 sqft ,637 Veerasamy Road, S$ 1.63 psf,Room,0,"S$ 1,300 /mo",EW11 Lavender MRT Station,0.83 km
+1,City Square Residences,Fully Furnished Condominium,180 sqft ,8 Kitchener Link, Available from 14 Apr,Room,0,"S$ 1,900 /mo",EW11 Lavender MRT Station,0.64 km
+2,Citylights,Partially Furnished Condominium,1894 sqft ,90 Jellicoe Road, Ready to move,3,3,"S$ 7,499 /mo",EW11 Lavender MRT Station,0.12 km
+3,The Riverine By The Park,Fully Furnished Apartment,980 sqft ,398 Kallang Road, Ready to move,2,2,"S$ 3,800 /mo",EW11 Lavender MRT Station,0.70 km
+4,Jalan Besar Plaza,Partially Furnished Apartment,1593 sqft ,101 Kitchener Road, S$ 2.82 psf,3,4,"S$ 4,500 /mo",EW11 Lavender MRT Station,0.57 km
+5,Jalan Besar Plaza,Apartment,2000 sqft ,101 Kitchener Road, Ready to move,4,4,"S$ 4,500 /mo",EW11 Lavender MRT Station,0.60 km
+6,815 Jellicoe Road,Fully Furnished HDB Apartment,150 sqft ,815 Jellicoe Road, Ready to move,Room,0,S$ 900 /mo,EW11 Lavender MRT Station,0.16 km
+7,462 Crawford Lane,Fully Furnished HDB Apartment,400 sqft ,462 Crawford Lane, Ready to move,Room,0,S$ 850 /mo,EW11 Lavender MRT Station,0.39 km
+8,Citylights,Condominium,506 sqft ,80 Jellicoe Road, Ready to move,1,1,"S$ 3,000 /mo",EW11 Lavender MRT Station,0.12 km
+9,461 Crawford Lane,Fully Furnished HDB Apartment,700 sqft ,461 Crawford Lane, S$ 3.43 psf,2,2,"S$ 2,400 /mo",EW11 Lavender MRT Station,0.37 km
+10,City Square Residences,Fully Furnished Condominium,570 sqft ,6 Kitchener Link, Available from 2 May,1,1,"S$ 2,600 /mo",EW11 Lavender MRT Station,0.64 km
+11,10B Bendemeer Road,HDB Apartment,100 sqft ,10B Bendemeer Road, Ready to move,Room,0,S$ 800 /mo,EW11 Lavender MRT Station,0.92 km
+12,The Plaza,Fully Furnished Condominium,750 sqft ,7500 Beach Road, Ready to move,1,1,"S$ 2,500 /mo",EW11 Lavender MRT Station,0.86 km
+13,Concourse Skyline,Partially Furnished Condominium,818 sqft ,300 Beach Road, Available from 31 May,1,1,"S$ 3,750 /mo",EW11 Lavender MRT Station,0.78 km
+14,12 Hamilton Road,Partially Furnished Apartment,710 sqft ,12 Hamilton Road, Ready to move,Studio,0,"S$ 2,800 /mo",EW11 Lavender MRT Station,0.49 km
+15,The Riverine By The Park,Partially Furnished Apartment,1776 sqft ,398 Kallang Road, Ready to move,4,3,"S$ 8,000 /mo",EW11 Lavender MRT Station,0.70 km
+16,The Riverine By The Park,Partially Furnished Condominium,1205 sqft ,398 Kallang Road, S$ 3.73 psf,3,3,"S$ 4,500 /mo",EW11 Lavender MRT Station,0.70 km
+17,City Square Residences,Condominium,570 sqft ,8 Kitchener Link, Ready to move,1,1,"S$ 3,888 /mo",EW11 Lavender MRT Station,0.64 km
+18,Cavan Suites,Fully Furnished Apartment,463 sqft ,11 Cavan Road, Ready to move,Studio,0,"S$ 2,400 /mo",EW11 Lavender MRT Station,0.42 km
+19,Citylights,Fully Furnished Condominium,560 sqft ,90 Jellicoe Road, Ready to move,1,1,"S$ 3,000 /mo",EW11 Lavender MRT Station,0.12 km
+0,Concourse Skyline,Partially Furnished Condominium,818 sqft ,300 Beach Road, Available from 15 Apr,1,1,"S$ 4,500 /mo",EW11 Lavender MRT Station,0.78 km
+1,The Plaza,Fully Furnished Apartment,750 sqft ,7500A Beach Road, Ready to move,1,1,"S$ 3,000 /mo",EW11 Lavender MRT Station,0.98 km
+2,Acadia Hotel,Fully Furnished Apartment,600 sqft ,Hamilton road, Ready to move,10,6,S$ 950 /mo,EW11 Lavender MRT Station,0.45 km
+3,Kerrisdale,Fully Furnished Condominium,1259 sqft ,36 Sturdee Road, Ready to move,3,3,"S$ 3,800 /mo",EW11 Lavender MRT Station,0.86 km
+4,The Riverine By The Park,Partially Furnished Apartment,1313 sqft ,398 Kallang Road, Ready to move,3,3,"S$ 4,500 /mo",EW11 Lavender MRT Station,0.70 km
+5,10A Bendemeer Road,Fully Furnished HDB Apartment,200 sqft ,10A Bendemeer Road, Ready to move,Room,0,S$ 800 /mo,EW11 Lavender MRT Station,0.90 km
+6,The Citron Residences,Apartment,732 sqft ,1 marne road, Ready to move,2,2,"S$ 2,900 /mo",EW11 Lavender MRT Station,0.85 km
+7,City Square Residences,Fully Furnished Condominium,570 sqft ,8 Kitchener Link, Available from 9 Jun,1,1,"S$ 2,800 /mo",EW11 Lavender MRT Station,0.64 km
+8,Southbank,Partially Furnished Condominium,1313 sqft ,881 North Bridge Road, S$ 3.96 psf,3,3,"S$ 5,200 /mo",EW11 Lavender MRT Station,0.22 km
+9,Southbank,Partially Furnished Condominium,904 sqft ,881 North Bridge Road, Ready to move,3,3,"S$ 4,100 /mo",EW11 Lavender MRT Station,0.22 km
+10,Southbank,Fully Furnished Condominium,958 sqft ,881 North Bridge Road, Available from 22 Apr,2,2,"S$ 4,200 /mo",EW11 Lavender MRT Station,0.22 km
+11,637 Veerasamy Road,Fully Furnished HDB Apartment,1248 sqft ,637 Veerasamy Road, Ready to move,3,2,"S$ 3,000 /mo",EW11 Lavender MRT Station,0.83 km
+12,The Citron Residences,Apartment,441 sqft ,1 marne road, Ready to move,1,1,"S$ 2,350 /mo",EW11 Lavender MRT Station,0.85 km
+13,City Square Residences,Fully Furnished Condominium,1216 sqft ,8 Kitchener Link, Ready to move,3,2,"S$ 4,500 /mo",EW11 Lavender MRT Station,0.64 km
+14,City Square Residences,Fully Furnished Condominium,1216 sqft ,14 Kitchener Link, Available from 1 May,3,3,"S$ 4,500 /mo",EW11 Lavender MRT Station,0.64 km
+15,Concourse Skyline,Fully Furnished Condominium,818 sqft ,300 Beach Road, Available from 15 Jun,1,1,"S$ 4,300 /mo",EW11 Lavender MRT Station,0.78 km
+16,City Square Residences,Fully Furnished Condominium,570 sqft ,6 Kitchener Link, Ready to move,1,1,"S$ 2,700 /mo",EW11 Lavender MRT Station,0.64 km
+17,Citylights,Partially Furnished Condominium,1800 sqft ,84 Jellicoe Road, Available from 15 May,3,4,"S$ 7,800 /mo",EW11 Lavender MRT Station,0.12 km
+18,Kerrisdale,Fully Furnished Condominium,1261 sqft ,30 Sturdee Road, Ready to move,3,2,"S$ 4,000 /mo",EW11 Lavender MRT Station,0.86 km
+19,Citylights,Fully Furnished Condominium,893 sqft ,80 Jellicoe Road, Available from 5 Jun,2,2,"S$ 4,000 /mo",EW11 Lavender MRT Station,0.12 km
+0,Citylights,Fully Furnished Condominium,678 sqft ,80 Jellicoe Road, Ready to move,2,1,"S$ 3,600 /mo",EW11 Lavender MRT Station,0.12 km
+1,City Square Residences,Fully Furnished Condominium,1216 sqft ,10 Kitchener Link, Ready to move,3,3,"S$ 4,500 /mo",EW11 Lavender MRT Station,0.64 km
+2,City Square Residences,Fully Furnished Condominium,570 sqft ,6 Kitchener Link, Ready to move,1,1,"S$ 2,700 /mo",EW11 Lavender MRT Station,0.64 km
+3,City Square Residences,Fully Furnished Condominium,570 sqft ,8 Kitchener Link, Available from 2 May,1,1,"S$ 2,850 /mo",EW11 Lavender MRT Station,0.64 km
+4,The Plaza,Partially Furnished Apartment,750 sqft ,7500 Beach Road, S$ 4.40 psf,2,2,"S$ 3,300 /mo",EW11 Lavender MRT Station,0.86 km
+5,City Square Residences,Fully Furnished Condominium,1216 sqft ,8 Kitchener Link, Ready to move,3,3,"S$ 4,500 /mo",EW11 Lavender MRT Station,0.64 km
+6,Southbank,Partially Furnished Condominium,958 sqft ,881 North Bridge Road, Ready to move,2,2,"S$ 4,100 /mo",EW11 Lavender MRT Station,0.24 km
+7,City Square Residences,Partially Furnished Condominium,570 sqft ,10 Kitchener Link, S$ 5.00 psf,1,1,"S$ 2,850 /mo",EW11 Lavender MRT Station,0.64 km
+8,The Citron Residences,Partially Furnished Apartment,667 sqft ,1 marne road, Ready to move,2,2,"S$ 3,000 /mo",EW11 Lavender MRT Station,0.85 km
+9,3 Beach Road,Fully Furnished HDB Apartment,731 sqft ,3 Beach Road, Ready to move,2,1,"S$ 2,288 /mo",EW11 Lavender MRT Station,0.44 km
+10,641 Rowell Road,Fully Furnished HDB Apartment,120 sqft ,641 Rowell Road, Ready to move,Room,0,S$ 650 /mo,EW11 Lavender MRT Station,0.89 km
+11,City Square Residences,Fully Furnished Condominium,1258 sqft ,12 Kitchener Link, Ready to move,3,2,"S$ 4,400 /mo",EW11 Lavender MRT Station,0.64 km
+12,Southbank,Fully Furnished Condominium,592 sqft ,881 North Bridge Road, Ready to move,1,1,"S$ 3,500 /mo",EW11 Lavender MRT Station,0.22 km
+13,The Riverine By The Park,Partially Furnished Condominium,1205 sqft ,398 Kallang Road, S$ 3.73 psf,3,3,"S$ 4,500 /mo",EW11 Lavender MRT Station,0.70 km
+14,City Square Residences,Fully Furnished Condominium,130 sqft ,12 Kitchener Link, Ready to move,Room,0,"S$ 1,300 /mo",EW11 Lavender MRT Station,0.64 km
+15,The Plaza,Partially Furnished Apartment,750 sqft ,7500A Beach Road, Ready to move,Studio,0,"S$ 2,300 /mo",EW11 Lavender MRT Station,0.98 km
+16,24 Verdun Road,Fully Furnished Apartment,230 sqft ,24 Verdun Road, Ready to move,Studio,0,"S$ 1,760 /mo",EW11 Lavender MRT Station,0.80 km
+17,Concourse Skyline,Partially Furnished Condominium,1109 sqft ,296 Beach Road, Ready to move,2,2,"S$ 5,000 /mo",EW11 Lavender MRT Station,0.78 km
+18,The Plaza,Fully Furnished Apartment,100 sqft ,7500A Beach Road, Ready to move,Room,0,"S$ 1,500 /mo",EW11 Lavender MRT Station,0.98 km
+19,Tyrwhitt 139,Partially Furnished Apartment,517 sqft ,139 Tyrwhitt Road, Ready to move,2,2,"S$ 2,200 /mo",EW11 Lavender MRT Station,0.57 km
+0,2 Bedroom Near Jalan Besar MRT,Fully Furnished Apartment,760 sqft ,Kelantan Lane, Available from 1 May,2,1,"S$ 2,400 /mo",EW11 Lavender MRT Station,0.79 km
+1,Jalan Besar Mrt,Fully Furnished Apartment,300 sqft ,Studio @ jalan besar mrt, Available from 30 Apr,Studio,0,"S$ 1,600 /mo",EW11 Lavender MRT Station,0.81 km
+2,Kerrisdale,Partially Furnished Condominium,1270 sqft ,36 Sturdee Road, Available from 4 Jul,3,3,"S$ 3,999 /mo",EW11 Lavender MRT Station,0.86 km
+3,City Square Residences,Fully Furnished Condominium,570 sqft ,8 Kitchener Link, Ready to move,Studio,0,"S$ 2,850 /mo",EW11 Lavender MRT Station,0.64 km
+4,Citylights,Partially Furnished Condominium,1894 sqft ,90 Jellicoe Road, Ready to move,3,3,"S$ 7,500 /mo",EW11 Lavender MRT Station,0.12 km
+5,The Citron Residences,Partially Furnished Apartment,667 sqft ,1 marne road, Ready to move,2,2,"S$ 2,800 /mo",EW11 Lavender MRT Station,0.85 km
+6,Citylights,Condominium,678 sqft ,80 Jellicoe Road, S$ 5.01 psf,2,1,"S$ 3,400 /mo",EW11 Lavender MRT Station,0.12 km
+7,City Square Residences,Partially Furnished Condominium,1195 sqft ,8 Kitchener Link, Available from 20 Apr,3,3,"S$ 4,200 /mo",EW11 Lavender MRT Station,0.64 km
+8,Kerrisdale,Fully Furnished Condominium,1259 sqft ,30 Sturdee Road, Available from 1 May,3,3,"S$ 4,200 /mo",EW11 Lavender MRT Station,0.86 km
+9,Concourse Skyline,Fully Furnished Condominium,818 sqft ,300 Beach Road, Ready to move,1,1,"S$ 4,100 /mo",EW11 Lavender MRT Station,0.78 km
+10,462 Crawford Lane,Fully Furnished HDB Apartment,645 sqft ,462 Crawford Lane, Ready to move,2,1,"S$ 2,400 /mo",EW11 Lavender MRT Station,0.39 km
+11,Tyrwhitt 139,Fully Furnished Apartment,550 sqft ,139 Tyrwhitt Road, Ready to move,6,1,"S$ 2,995 /mo",EW11 Lavender MRT Station,0.57 km
+12,Citylights,Partially Furnished Condominium,721 sqft ,80 Jellicoe Road, Available from 26 May,2,1,"S$ 3,600 /mo",EW11 Lavender MRT Station,0.12 km
+13,633 Veerasamy Road,Fully Furnished HDB Apartment,796 sqft ,633 Veerasamy Road, Available from 24 Apr,2,2,"S$ 2,300 /mo",EW11 Lavender MRT Station,0.92 km
+14,Concourse Skyline,Partially Furnished Condominium,817 sqft ,296 Beach Road, Available from 15 Apr,1,1,"S$ 4,300 /mo",EW11 Lavender MRT Station,0.78 km
+15,The Plaza,Fully Furnished Apartment,807 sqft ,7500A Beach Road, Ready to move,2,2,"S$ 3,200 /mo",EW11 Lavender MRT Station,0.98 km
+16,Sultan Gate Place,Fully Furnished Apartment,200 sqft ,1 Sultan Gate, S$ 6.00 psf,Room,0,"S$ 1,200 /mo",EW11 Lavender MRT Station,0.76 km
+17,Citylights,Fully Furnished Condominium,560 sqft ,90 Jellicoe Road, Ready to move,1,1,"S$ 3,300 /mo",EW11 Lavender MRT Station,0.12 km
+18,Citylights,Fully Furnished Condominium,893 sqft ,90 Jellicoe Road, Ready to move,2,2,"S$ 4,200 /mo",EW11 Lavender MRT Station,0.12 km
+19,Kerrisdale,Fully Furnished Condominium,1259 sqft ,30 Sturdee Road, Ready to move,3,3,"S$ 4,000 /mo",EW11 Lavender MRT Station,0.86 km
+0,City Square Residences,Fully Furnished Condominium,570 sqft ,8 Kitchener Link, Ready to move,Studio,0,"S$ 2,850 /mo",EW11 Lavender MRT Station,0.64 km
+1,Citylights,Partially Furnished Condominium,689 sqft ,80 Jellicoe Road, Available from 31 May,2,1,"S$ 3,400 /mo",EW11 Lavender MRT Station,0.12 km
+2,Concourse Skyline,Partially Furnished Condominium,1087 sqft ,300 Beach Road, Ready to move,2,2,"S$ 5,100 /mo",EW11 Lavender MRT Station,0.78 km
+3,City Square Residences,Fully Furnished Condominium,1216 sqft ,8 Kitchener Link, Ready to move,3,2,"S$ 4,000 /mo",EW11 Lavender MRT Station,0.64 km
+4,Concourse Skyline,Condominium,1108 sqft ,300 Beach Road, Ready to move,2,2,"S$ 5,100 /mo",EW11 Lavender MRT Station,0.78 km
+5,City Square Residences,Partially Furnished Condominium,1206 sqft ,10 Kitchener Link, Ready to move,3,3,"S$ 4,188 /mo",EW11 Lavender MRT Station,0.64 km
+6,Hoa Nam Building,Partially Furnished Apartment,850 sqft ,27 Foch Road, Available from 15 Apr,3,2,"S$ 2,688 /mo",EW11 Lavender MRT Station,0.68 km
+7,City Square Residences,Fully Furnished Condominium,1518 sqft ,8 Kitchener Link, Ready to move,4,4,"S$ 4,700 /mo",EW11 Lavender MRT Station,0.64 km
+8,City Square Residences,Fully Furnished Condominium,150 sqft ,8 Kitchener Link, S$ 8.33 psf,Room,0,"S$ 1,250 /mo",EW11 Lavender MRT Station,0.64 km
+9,2 Beach Road,HDB Apartment,732 sqft ,2 Beach Road, S$ 3.28 psf,2,0,"S$ 2,400 /mo",EW11 Lavender MRT Station,0.45 km
+10,17 Beach Road,Fully Furnished HDB Apartment,150 sqft ,17 Beach Road, S$ 6.67 psf,1,1,"S$ 1,000 /mo",EW11 Lavender MRT Station,0.42 km
+11,Concourse Skyline,Partially Furnished Condominium,2260 sqft ,296 Beach Road, Ready to move,5,5,"S$ 9,500 /mo",EW11 Lavender MRT Station,0.78 km
+12,City Square Residences,Partially Furnished Condominium,1216 sqft ,2 Kitchener Link, Ready to move,3,3,"S$ 4,800 /mo",EW11 Lavender MRT Station,0.64 km
+13,Verdun House,Fully Furnished Apartment,316 sqft ,6 Verdun House, S$ 6.33 psf,1,1,"S$ 2,000 /mo",EW11 Lavender MRT Station,0.81 km
+14,462 Crawford Lane,Fully Furnished HDB Apartment,645 sqft ,462 Crawford Lane, Available from 16 Apr,2,1,"S$ 2,350 /mo",EW11 Lavender MRT Station,0.39 km
+15,Studios @ Marne,Partially Furnished Apartment,520 sqft ,2 Marne Road, Ready to move,2,1,"S$ 2,388 /mo",EW11 Lavender MRT Station,0.91 km
+16,10C Bendemeer Road,Fully Furnished HDB Apartment,150 sqft ,10C Bendemeer Road, Ready to move,Room,0,"S$ 1,200 /mo",EW11 Lavender MRT Station,0.92 km
+17,The Citron Residences,Fully Furnished Apartment,330 sqft ,1 marne road, Ready to move,Studio,0,"S$ 2,100 /mo",EW11 Lavender MRT Station,0.85 km
+18,City Square Residences,Fully Furnished Condominium,840 sqft ,2 Kitchener Link, S$ 4.17 psf,2,2,"S$ 3,500 /mo",EW11 Lavender MRT Station,0.64 km
+19,City Square Residences,Partially Furnished Condominium,1216 sqft ,6 Kitchener Link, S$ 3.54 psf,3,3,"S$ 4,300 /mo",EW11 Lavender MRT Station,0.64 km
+0,City Square Residences,Partially Furnished Condominium,1518 sqft ,8 Kitchener Link, S$ 3.43 psf,4,4,"S$ 5,200 /mo",EW11 Lavender MRT Station,0.64 km
+1,The Citron Residences,Fully Furnished Condominium,575 sqft ,1 marne road, Ready to move,1,1,"S$ 2,500 /mo",EW11 Lavender MRT Station,0.85 km
+2,The Plaza,Partially Furnished Apartment,474 sqft ,7500 Beach Road, Ready to move,1,1,"S$ 2,400 /mo",EW11 Lavender MRT Station,0.86 km
+3,The Plaza,Partially Furnished Apartment,474 sqft ,7500 Beach Road, Ready to move,1,1,"S$ 2,400 /mo",EW11 Lavender MRT Station,0.86 km
+4,12 North Bridge Road,Fully Furnished HDB Apartment,1227 sqft ,12 North Bridge Road, Ready to move,3,2,"S$ 2,900 /mo",EW11 Lavender MRT Station,0.35 km
+5,Concourse Skyline,Fully Furnished Condominium,818 sqft ,300 Beach Road, Ready to move,1,1,"S$ 4,100 /mo",EW11 Lavender MRT Station,0.78 km
+6,Citylights,Condominium,678 sqft ,88 Jellicoe Road, Ready to move,2,1,"S$ 3,500 /mo",EW11 Lavender MRT Station,0.12 km
+7,City Square Residences,Fully Furnished Condominium,570 sqft ,2 Kitchener Link, Ready to move,1,1,"S$ 2,700 /mo",EW11 Lavender MRT Station,0.64 km
+8,Citylights,Partially Furnished Condominium,1895 sqft ,90 Jellicoe Road, Ready to move,3,3,"S$ 7,500 /mo",EW11 Lavender MRT Station,0.12 km
+9,City Square Residences,Partially Furnished Condominium,1500 sqft ,4 Kitchener Link, Available from 1 May,4,4,"S$ 5,800 /mo",EW11 Lavender MRT Station,0.64 km
+10,City Square Residences,Fully Furnished Condominium,100 sqft ,14 Kitchener Link, Ready to move,1,1,S$ 700 /mo,EW11 Lavender MRT Station,0.64 km
+11,City Square Residences,Fully Furnished Condominium,250 sqft ,12 Kitchener Link, S$ 5.00 psf,Room,0,"S$ 1,250 /mo",EW11 Lavender MRT Station,0.64 km
+12,City Square Residences,Fully Furnished Condominium,250 sqft ,8 Kitchener Link, S$ 7.60 psf,Room,0,"S$ 1,900 /mo",EW11 Lavender MRT Station,0.64 km
+13,City Square Residences,Partially Furnished Condominium,200 sqft ,8 Kitchener Link, S$ 6.50 psf,Room,0,"S$ 1,300 /mo",EW11 Lavender MRT Station,0.64 km
+14,Citylights,Fully Furnished Condominium,678 sqft ,80 Jellicoe Road, Ready to move,1,1,"S$ 3,600 /mo",EW11 Lavender MRT Station,0.12 km
+15,Southbank,Fully Furnished Condominium,614 sqft ,883 North Bridge Road, Ready to move,1,1,"S$ 3,500 /mo",EW11 Lavender MRT Station,0.22 km
+16,Citylights,Fully Furnished Condominium,1905 sqft ,80 Jellicoe Road, Available from 9 Jun,4,3,"S$ 6,500 /mo",EW11 Lavender MRT Station,0.12 km
+17,City Square Residences,Condominium,571 sqft ,6 Kitchener Link, Ready to move,1,1,"S$ 2,700 /mo",EW11 Lavender MRT Station,0.64 km
+18,City Square Residences,Condominium,200 sqft ,10 Kitchener Link, S$ 6.00 psf,Room,0,"S$ 1,200 /mo",EW11 Lavender MRT Station,0.64 km
+19,Citylights,Fully Furnished Condominium,680 sqft ,80 Jellicoe Road, S$ 4.85 psf,1,1,"S$ 3,300 /mo",EW11 Lavender MRT Station,0.12 km
+0,City Square Residences,Fully Furnished Condominium,570 sqft ,8 Kitchener Link, Available from 3 May,1,1,"S$ 2,900 /mo",EW11 Lavender MRT Station,0.64 km
+1,City Square Residences,Condominium,570 sqft ,10 Kitchener Link, Available from 2 May,1,1,"S$ 2,850 /mo",EW11 Lavender MRT Station,0.64 km
+2,10B Bendemeer Road,HDB Apartment,150 sqft ,10B Bendemeer Road, S$ 4.67 psf,Room,0,S$ 700 /mo,EW11 Lavender MRT Station,0.92 km
+3,Quaint Boutique 1 BR Shophouse Unit With Internet And Utilities,Fully Furnished Shophouse,500 sqft ,Jalan Sultan, Ready to move,1,1,"S$ 4,500 /mo",EW11 Lavender MRT Station,0.58 km
+4,The Plaza,Fully Furnished Apartment,900 sqft ,7500A Beach Road, S$ 3.00 psf,2,2,"S$ 2,700 /mo",EW11 Lavender MRT Station,0.98 km
+5,1 Beach Road,Fully Furnished HDB Apartment,700 sqft ,1 Beach Road, Ready to move,2,1,"S$ 2,500 /mo",EW11 Lavender MRT Station,0.48 km
+6,1 Beach Road,Fully Furnished HDB Apartment,700 sqft ,1 Beach Road, Ready to move,2,1,"S$ 2,500 /mo",EW11 Lavender MRT Station,0.48 km
+7,Citylights,Partially Furnished Condominium,893 sqft ,86 Jellicoe Road, Ready to move,2,2,"S$ 4,000 /mo",EW11 Lavender MRT Station,0.12 km
+8,Hoa Nam Building,Partially Furnished Apartment,820 sqft ,27 Foch Road, Ready to move,2,2,"S$ 2,750 /mo",EW11 Lavender MRT Station,0.68 km
+9,Ctiy Squre Residencies,Fully Furnished Condominium,250 sqft ,14 kitchener link, Ready to move,Room,0,"S$ 1,300 /mo",EW11 Lavender MRT Station,0.84 km
+10,8B Upper Boon Keng Road,Fully Furnished HDB Apartment,100 sqft ,8B Upper Boon Keng Road, Ready to move,Room,0,S$ 800 /mo,EW11 Lavender MRT Station,0.95 km
+11,City Square Residences,Fully Furnished Condominium,130 sqft ,8 Kitchener Link, Ready to move,Room,0,"S$ 1,200 /mo",EW11 Lavender MRT Station,0.64 km
+12,The Plaza,Fully Furnished Apartment,180 sqft ,7500A Beach Road, Ready to move,Room,0,"S$ 1,150 /mo",EW11 Lavender MRT Station,0.98 km
+13,Sturdee View,Fully Furnished Condominium,170 sqft ,60 Sturdee Road North, Ready to move,Room,0,"S$ 1,250 /mo",EW11 Lavender MRT Station,0.91 km
+14,Citylights,Fully Furnished Condominium,678 sqft ,80 Jellicoe Road, Ready to move,2,1,"S$ 3,400 /mo",EW11 Lavender MRT Station,0.12 km
+15,Concourse Skyline,Partially Furnished Condominium,829 sqft ,296 Beach Road, Available from 1 May,1,1,"S$ 4,500 /mo",EW11 Lavender MRT Station,0.78 km
+16,24 Verdun Road,Fully Furnished Apartment,400 sqft ,Verdun Road, Ready to move,Studio,0,"S$ 1,900 /mo",EW11 Lavender MRT Station,0.73 km
+17,463 Crawford Lane,Fully Furnished HDB Apartment,80 sqft ,463 Crawford Lane, Ready to move,Room,0,S$ 850 /mo,EW11 Lavender MRT Station,0.28 km
+18,Concourse Skyline,Condominium,818 sqft ,300 Beach Road, Ready to move,1,2,"S$ 4,100 /mo",EW11 Lavender MRT Station,0.78 km
+19,Southbank,Fully Furnished Condominium,969 sqft ,881 North Bridge Road, Ready to move,2,2,"S$ 4,000 /mo",EW11 Lavender MRT Station,0.22 km
+0,City Square Residences,Condominium,570 sqft ,6 Kitchener Link, Available from 7 May,1,1,"S$ 2,850 /mo",EW11 Lavender MRT Station,0.64 km
+1,Sturdee View,Fully Furnished Condominium,1475 sqft ,60 Sturdee Road North, Ready to move,4,3,"S$ 4,500 /mo",EW11 Lavender MRT Station,0.91 km
+2,City Square Residences,Fully Furnished Condominium,1216 sqft ,8 Kitchener Link, S$ 3.54 psf,3,3,"S$ 4,300 /mo",EW11 Lavender MRT Station,0.64 km
+3,City Square Residences,Fully Furnished Condominium,861 sqft ,12 Kitchener Link, Ready to move,2,2,"S$ 3,200 /mo",EW11 Lavender MRT Station,0.64 km
+4,Kerrisdale,Condominium,1270 sqft ,34 Sturdee Road, Ready to move,3,2,"S$ 4,000 /mo",EW11 Lavender MRT Station,0.86 km
+5,Southbank,Partially Furnished Condominium,958 sqft ,881 North Bridge Road, Available from 23 Apr,2,2,"S$ 4,100 /mo",EW11 Lavender MRT Station,0.22 km
+6,Kerrisdale,Partially Furnished Condominium,120 sqft ,30 Sturdee Road, Ready to move,Room,0,"S$ 1,200 /mo",EW11 Lavender MRT Station,0.86 km
+7,Parc Somme,Fully Furnished Apartment,452 sqft ,62 Somme Road, Ready to move,1,1,"S$ 2,600 /mo",EW11 Lavender MRT Station,0.67 km
+8,City Square Residences,Partially Furnished Condominium,1216 sqft ,8 Kitchener Link, Ready to move,3,3,"S$ 4,300 /mo",EW11 Lavender MRT Station,0.64 km
+9,City Square Residences,Partially Furnished Condominium,570 sqft ,2 Kitchener Link, Ready to move,1,1,"S$ 2,800 /mo",EW11 Lavender MRT Station,0.64 km
+10,Concourse Skyline,Partially Furnished Condominium,3272 sqft ,300 Beach Road, Ready to move,5,5,"S$ 13,000 /mo",EW11 Lavender MRT Station,0.78 km
+11,Concourse Skyline,Partially Furnished Condominium,861 sqft ,300 Beach Road, Available from 30 Apr,1,1,"S$ 4,200 /mo",EW11 Lavender MRT Station,0.78 km
+12,Concourse Skyline,Fully Furnished Condominium,818 sqft ,298 Beach Road, Ready to move,1,1,"S$ 4,100 /mo",EW11 Lavender MRT Station,0.78 km
+13,Citylights,Fully Furnished Condominium,678 sqft ,80 Jellicoe Road, Ready to move,2,1,"S$ 3,400 /mo",EW11 Lavender MRT Station,0.12 km
+14,9 Boon Keng Road,Fully Furnished HDB Apartment,150 sqft ,(within 0.96 km), Ready to move,Room,0,S$ 700 /mo,EW11 Lavender MRT Station,0.96 km
+15,City Square Residences,Fully Furnished Condominium,570 sqft ,14 Kitchener Link, Available from 15 Jun,Studio,0,"S$ 3,000 /mo",EW11 Lavender MRT Station,0.64 km
+16,City Square Residences,Fully Furnished Condominium,1216 sqft ,8 Kitchener Link, Ready to move,3,3,"S$ 4,800 /mo",EW11 Lavender MRT Station,0.64 km
+17,Concourse Skyline,Condominium,775 sqft ,300 Beach Road, Ready to move,1,1,"S$ 3,800 /mo",EW11 Lavender MRT Station,0.78 km
+18,Citylights,Partially Furnished Condominium,872 sqft ,88 Jellicoe Road, Available from 1 May,2,2,"S$ 3,600 /mo",EW11 Lavender MRT Station,0.12 km
+19,City Square Residences,Fully Furnished Condominium,1238 sqft ,14 Kitchener Link, Ready to move,3,3,"S$ 4,500 /mo",EW11 Lavender MRT Station,0.64 km
+0,City Square Residences,Fully Furnished Condominium,1216 sqft ,8 Kitchener Link, Ready to move,3,3,"S$ 4,500 /mo",EW11 Lavender MRT Station,0.64 km
+1,City Square Residences,Condominium,570 sqft ,12 Kitchener Link, Ready to move,1,1,"S$ 2,900 /mo",EW11 Lavender MRT Station,0.64 km
+2,Golden Mile Complex,Fully Furnished Apartment,380 sqft ,5001 Beach Road, S$ 7.50 psf,Studio,0,"S$ 2,850 /mo",EW11 Lavender MRT Station,0.58 km
+3,The Riverine By The Park,Fully Furnished Apartment,1216 sqft ,398 Kallang Road, Ready to move,3,2,"S$ 5,200 /mo",EW11 Lavender MRT Station,0.70 km
+4,815 Jellicoe Road,Fully Furnished HDB Apartment,150 sqft ,815 Jellicoe Road, S$ 5.33 psf,Room,0,S$ 800 /mo,EW11 Lavender MRT Station,0.16 km
+5,Concourse Skyline,Partially Furnished Condominium,818 sqft ,300 Beach Road, Ready to move,1,1,"S$ 4,100 /mo",EW11 Lavender MRT Station,0.78 km
+6,The Citron Residences,Partially Furnished Apartment,667 sqft ,1 marne road, Ready to move,2,2,"S$ 2,900 /mo",EW11 Lavender MRT Station,0.85 km
+7,Concourse Skyline,Fully Furnished Condominium,861 sqft ,300 Beach Road, Available from 1 May,1,1,"S$ 4,600 /mo",EW11 Lavender MRT Station,0.78 km
+8,City Square Residences,Fully Furnished Condominium,200 sqft ,2 Kitchener Link, Ready to move,Room,0,"S$ 1,800 /mo",EW11 Lavender MRT Station,0.64 km
+9,Kallang Riverside,Condominium,1033 sqft ,51 Kampong Bugis, Available from 1 Dec,2,2,"S$ 6,291 /mo",EW11 Lavender MRT Station,0.42 km
+10,City Square Residences,Fully Furnished Condominium,200 sqft ,2 Kitchener Link, S$ 8.50 psf,Room,0,"S$ 1,700 /mo",EW11 Lavender MRT Station,0.64 km
+11,804 King George's Avenue,Fully Furnished HDB Apartment,603 sqft ,804 King George's Avenue, Ready to move,2,1,"S$ 2,399 /mo",EW11 Lavender MRT Station,0.27 km
+12,Citylights,Partially Furnished Condominium,560 sqft ,88 Jellicoe Road, Ready to move,1,1,"S$ 3,050 /mo",EW11 Lavender MRT Station,0.12 km
+13,The Plaza,Fully Furnished Apartment,750 sqft ,7500A Beach Road, Ready to move,1,1,"S$ 2,480 /mo",EW11 Lavender MRT Station,0.98 km
+14,The Citron Residences,Fully Furnished Apartment,120 sqft ,1 marne road, Ready to move,Room,0,"S$ 1,500 /mo",EW11 Lavender MRT Station,0.85 km
+15,City Square Residences,Fully Furnished Condominium,1216 sqft ,12 Kitchener Link, Available from 30 Apr,3,3,"S$ 4,688 /mo",EW11 Lavender MRT Station,0.64 km
+16,Citylights,Fully Furnished Condominium,700 sqft ,80 Jellicoe Road, Ready to move,2,1,"S$ 3,500 /mo",EW11 Lavender MRT Station,0.12 km
+17,City Square Residences,Fully Furnished Condominium,250 sqft ,10 Kitchener Link, S$ 7.20 psf,Room,0,"S$ 1,800 /mo",EW11 Lavender MRT Station,0.64 km
+18,City Square Residences,Fully Furnished Condominium,570 sqft ,8 Kitchener Link, Ready to move,1,1,"S$ 2,800 /mo",EW11 Lavender MRT Station,0.64 km
+19,City Square Residences,Fully Furnished Condominium,570 sqft ,6 Kitchener Link, Ready to move,1,1,"S$ 2,800 /mo",EW11 Lavender MRT Station,0.64 km
+0,The Riverine By The Park,Partially Furnished Apartment,1200 sqft ,398 Kallang Road, Ready to move,3,2,"S$ 4,900 /mo",EW11 Lavender MRT Station,0.70 km
+1,City Square Residences,Fully Furnished Condominium,220 sqft ,8 Kitchener Link, Ready to move,Room,0,"S$ 1,650 /mo",EW11 Lavender MRT Station,0.64 km
+2,Citylights,Condominium,1894 sqft ,80 Jellicoe Road, Ready to move,3,3,"S$ 7,500 /mo",EW11 Lavender MRT Station,0.12 km
+3,Kerrisdale,Condominium,200 sqft ,30 Sturdee Road, S$ 6.50 psf,Room,0,"S$ 1,300 /mo",EW11 Lavender MRT Station,0.86 km
+4,Citylights,Partially Furnished Condominium,850 sqft ,80 Jellicoe Road, Ready to move,2,2,"S$ 4,200 /mo",EW11 Lavender MRT Station,0.12 km
+5,468 North Bridge Road,Partially Furnished HDB Apartment,50 sqft ,468 North Bridge Road, Ready to move,Room,0,S$ 550 /mo,EW11 Lavender MRT Station,0.24 km
+6,26 Jalan Berseh,Fully Furnished HDB Apartment,110 sqft ,26 Jalan Berseh, S$ 6.82 psf,Room,0,S$ 750 /mo,EW11 Lavender MRT Station,0.60 km
+7,Concourse Skyline,Partially Furnished Condominium,1173 sqft ,300 Beach Road, Ready to move,2,2,"S$ 5,000 /mo",EW11 Lavender MRT Station,0.78 km
+8,3 Beach Road,Partially Furnished HDB Apartment,700 sqft ,3 Beach Road, Available from 16 May,2,1,"S$ 2,680 /mo",EW11 Lavender MRT Station,0.44 km
+9,640 Rowell Road,Fully Furnished HDB Apartment,200 sqft ,640 Rowell Road, S$ 5.00 psf,Room,0,"S$ 1,000 /mo",EW11 Lavender MRT Station,0.91 km
+10,City Square Residences,Fully Furnished Condominium,839 sqft ,8 Kitchener Link, Available from 30 Apr,2,2,"S$ 3,599 /mo",EW11 Lavender MRT Station,0.64 km
+11,30 Kelantan Road,Partially Furnished HDB Apartment,743 sqft ,30 Kelantan Road, Ready to move,2,1,"S$ 2,400 /mo",EW11 Lavender MRT Station,0.74 km
+12,17 Beach Road,Fully Furnished HDB Apartment,1100 sqft ,17 Beach Road, Ready to move,3,1,"S$ 2,500 /mo",EW11 Lavender MRT Station,0.42 km
+13,City Square Residences,Fully Furnished Condominium,120 sqft ,8 Kitchener Link, Ready to move,Room,0,"S$ 1,250 /mo",EW11 Lavender MRT Station,0.64 km
+14,City Square Residences,Fully Furnished Condominium,130 sqft ,8 Kitchener Link, Ready to move,Room,0,"S$ 1,550 /mo",EW11 Lavender MRT Station,0.64 km
+15,Kerrisdale,Fully Furnished Condominium,1281 sqft ,30 Sturdee Road, Ready to move,3,2,"S$ 4,000 /mo",EW11 Lavender MRT Station,0.86 km
+16,Beautiful Studio @ Lavender Street,Fully Furnished Shophouse,"400 sqft, 400 sqft (land) ",Lavender Street, Ready to move,1,1,"S$ 1,600 /mo",EW11 Lavender MRT Station,0.90 km
+17,The Riverine By The Park,Apartment,180 sqft ,398 Kallang Road, Ready to move,Room,0,"S$ 1,800 /mo",EW11 Lavender MRT Station,0.70 km
+18,City Square Residences,Fully Furnished Condominium,1206 sqft ,10 Kitchener Link, Ready to move,3,3,"S$ 4,100 /mo",EW11 Lavender MRT Station,0.64 km
+19,Sturdee View,Condominium,1400 sqft ,60 Sturdee Road North, Ready to move,3,2,"S$ 3,800 /mo",EW11 Lavender MRT Station,0.91 km
+0,City Square Residences,Condominium,1216 sqft ,8 Kitchener Link, Ready to move,3,2,"S$ 4,800 /mo",EW11 Lavender MRT Station,0.64 km
+1,Citylights,Condominium,1894 sqft ,80 Jellicoe Road, Ready to move,3,2,"S$ 7,500 /mo",EW11 Lavender MRT Station,0.12 km
+2,Concourse Skyline,Condominium,820 sqft ,300 Beach Road, Ready to move,1,1,"S$ 3,900 /mo",EW11 Lavender MRT Station,0.78 km
+3,12 North Bridge Road,Partially Furnished HDB Apartment,1205 sqft ,12 North Bridge Road, S$ 2.41 psf,3,2,"S$ 2,900 /mo",EW11 Lavender MRT Station,0.35 km
+4,The Citron Residences,Partially Furnished Apartment,1119 sqft ,1 marne road, Ready to move,3,2,"S$ 4,300 /mo",EW11 Lavender MRT Station,0.85 km
+5,City Square Residences,Fully Furnished Condominium,1206 sqft ,2 Kitchener Link, Ready to move,3,3,"S$ 4,000 /mo",EW11 Lavender MRT Station,0.64 km
+6,City Square Residences,Fully Furnished Condominium,570 sqft ,8 Kitchener Link, Available from 24 Apr,1,1,"S$ 2,800 /mo",EW11 Lavender MRT Station,0.64 km
+7,Tyrwhitt 139,Fully Furnished Apartment,550 sqft ,139 Tyrwhitt Road, Ready to move,3,1,"S$ 2,990 /mo",EW11 Lavender MRT Station,0.57 km
+8,Concourse Skyline,Partially Furnished Condominium,1163 sqft ,300 Beach Road, Ready to move,2,2,"S$ 5,100 /mo",EW11 Lavender MRT Station,0.78 km
+9,City Square Residences,Fully Furnished Condominium,570 sqft ,8 Kitchener Link, Ready to move,Studio,0,"S$ 2,900 /mo",EW11 Lavender MRT Station,0.64 km
+10,"Studio Apartment Near Farrer Park, With Free Wifi, Pantry , Attached Toilet",Fully Furnished Apartment,310 sqft ,Verdun Road, Ready to move,Studio,0,"S$ 1,880 /mo",EW11 Lavender MRT Station,0.82 km
+11,City Square Residences,Partially Furnished Condominium,840 sqft ,8 Kitchener Link, Ready to move,2,2,"S$ 3,200 /mo",EW11 Lavender MRT Station,0.64 km
+12,City Square Residences,Fully Furnished Condominium,1216 sqft ,8 Kitchener Link, Ready to move,3,2,"S$ 4,400 /mo",EW11 Lavender MRT Station,0.64 km
+13,City Square Residences,Fully Furnished Condominium,570 sqft ,6 Kitchener Link, Available from 2 May,Studio,0,"S$ 2,850 /mo",EW11 Lavender MRT Station,0.64 km
+14,Hoa Nam Building,Fully Furnished Apartment,430 sqft ,27 Foch Road, Available from 18 May,1,1,"S$ 2,000 /mo",EW11 Lavender MRT Station,0.68 km
+15,Concourse Skyline,Fully Furnished Condominium,818 sqft ,300 Beach Road, Ready to move,1,2,"S$ 4,200 /mo",EW11 Lavender MRT Station,0.78 km
+16,The Plaza,Fully Furnished Apartment,750 sqft ,7500A Beach Road, Ready to move,Studio,0,"S$ 2,200 /mo",EW11 Lavender MRT Station,0.98 km
+17,32 Penhas Road,Fully Furnished Apartment,1173 sqft ,32 Penhas road, Ready to move,Room,0,"S$ 1,100 /mo",EW11 Lavender MRT Station,0.21 km
+18,Citylights,Fully Furnished Condominium,635 sqft ,80 Jellicoe Road, Ready to move,1,1,"S$ 3,300 /mo",EW11 Lavender MRT Station,0.12 km
+19,Blk 462 Crawford Lane,Fully Furnished HDB Apartment,500 sqft ,(within 0.39 km), S$ 3.10 psf,1,1,"S$ 1,550 /mo",EW11 Lavender MRT Station,0.39 km
+0,City Square Residences,Fully Furnished Condominium,570 sqft ,6 Kitchener Link, S$ 4.91 psf,Studio,0,"S$ 2,800 /mo",EW11 Lavender MRT Station,0.64 km
+1,The Riverine By The Park,Partially Furnished Apartment,1205 sqft ,398 Kallang Road, Ready to move,3,3,"S$ 4,500 /mo",EW11 Lavender MRT Station,0.70 km
+2,Concourse Skyline,Partially Furnished Condominium,818 sqft ,298 Beach Road, Ready to move,1,1,"S$ 4,000 /mo",EW11 Lavender MRT Station,0.78 km
+3,634 Veerasamy Road,Partially Furnished HDB Apartment,300 sqft ,634 Veerasamy Road, Ready to move,Room,0,S$ 700 /mo,EW11 Lavender MRT Station,0.92 km
+4,Concourse Skyline,Condominium,818 sqft ,298 Beach Road, Ready to move,1,0,"S$ 4,200 /mo",EW11 Lavender MRT Station,0.78 km
+5,Citylights,Fully Furnished Condominium,893 sqft ,86 Jellicoe Road, Ready to move,2,2,"S$ 4,200 /mo",EW11 Lavender MRT Station,0.12 km
+6,Hoa Nam Building,Fully Furnished Apartment,550 sqft ,27 Foch Road, Ready to move,2,1,"S$ 1,700 /mo",EW11 Lavender MRT Station,0.68 km
+7,Full Furnished Studio Apt For Rent,Fully Furnished Apartment,300 sqft ,Verdun Road, Ready to move,Studio,0,"S$ 1,799 /mo",EW11 Lavender MRT Station,0.83 km
+8,City Square Residences,Fully Furnished Condominium,570 sqft ,8 Kitchener Link, Available from 3 May,Studio,0,"S$ 2,990 /mo",EW11 Lavender MRT Station,0.64 km
+9,Verdun House,Fully Furnished Apartment,350 sqft ,6 Verdun House, Ready to move,Studio,0,"S$ 1,800 /mo",EW11 Lavender MRT Station,0.81 km
+10,Golden Mile Complex,Fully Furnished Apartment,350 sqft ,5001 Beach Road, S$ 6.51 psf,Studio,0,"S$ 2,280 /mo",EW11 Lavender MRT Station,0.58 km
+11,Kerrisdale,Unfurnished Condominium,1260 sqft ,30 Sturdee Road, Ready to move,3,3,"S$ 3,500 /mo",EW11 Lavender MRT Station,0.86 km
+12,The Riverine By The Park,Fully Furnished Apartment,1173 sqft ,398 Kallang Road, Ready to move,3,2,"S$ 5,200 /mo",EW11 Lavender MRT Station,0.70 km
+13,The Plaza,Fully Furnished Apartment,750 sqft ,7500 Beach Road, Ready to move,Studio,0,"S$ 2,300 /mo",EW11 Lavender MRT Station,0.86 km
+14,City Square Residences,Fully Furnished Condominium,570 sqft ,14 Kitchener Link, Ready to move,Studio,0,"S$ 2,850 /mo",EW11 Lavender MRT Station,0.64 km
+15,The Riverine By The Park,Partially Furnished Condominium,1205 sqft ,398 Kallang Road, Ready to move,3,3,"S$ 4,500 /mo",EW11 Lavender MRT Station,0.70 km
+16,Sultan Gate Place,Fully Furnished Apartment,100 sqft ,1 Sultan Gate, S$ 7.00 psf,Room,0,S$ 700 /mo,EW11 Lavender MRT Station,0.76 km
+17,Citylights,Partially Furnished Condominium,1894 sqft ,80 Jellicoe Road, Ready to move,3,2,"S$ 7,500 /mo",EW11 Lavender MRT Station,0.12 km
+18,Kerrisdale,Fully Furnished Condominium,995 sqft ,30 Sturdee Road, Ready to move,2,3,"S$ 3,700 /mo",EW11 Lavender MRT Station,0.86 km
+19,Concourse Skyline,Partially Furnished Condominium,829 sqft ,296 Beach Road, Ready to move,1,1,"S$ 4,500 /mo",EW11 Lavender MRT Station,0.78 km
+0,29 Kelantan Road,Fully Furnished HDB Apartment,150 sqft ,29 Kelantan Road, Ready to move,Room,0,"S$ 1,000 /mo",EW11 Lavender MRT Station,0.70 km
+1,Southbank,Apartment,969 sqft ,881 North Bridge Road, Ready to move,2,2,"S$ 4,100 /mo",EW11 Lavender MRT Station,0.22 km
+2,Kerrisdale,Partially Furnished Condominium,990 sqft ,34 Sturdee Road, Ready to move,2,2,"S$ 3,500 /mo",EW11 Lavender MRT Station,0.86 km
+3,The Citron Residences,Partially Furnished Apartment,700 sqft ,1 marne road, Ready to move,2,2,"S$ 2,800 /mo",EW11 Lavender MRT Station,0.85 km
+4,Le Somme,Fully Furnished Condominium,500 sqft ,60 Somme Road, Ready to move,1,1,"S$ 2,300 /mo",EW11 Lavender MRT Station,0.67 km
+5,28 Kelantan Road,Fully Furnished HDB Apartment,110 sqft ,28 Kelantan Road, Ready to move,Room,0,"S$ 1,000 /mo",EW11 Lavender MRT Station,0.67 km
+6,Kerrisdale,Fully Furnished Condominium,990 sqft ,30 Sturdee Road, Ready to move,2,2,"S$ 3,300 /mo",EW11 Lavender MRT Station,0.86 km
+7,City Square Residences,Fully Furnished Condominium,570 sqft ,8 Kitchener Link, Ready to move,Studio,0,"S$ 2,600 /mo",EW11 Lavender MRT Station,0.64 km
+8,City Square Residences,Condominium,1518 sqft ,6 Kitchener Link, Ready to move,4,3,"S$ 4,600 /mo",EW11 Lavender MRT Station,0.64 km
+9,468 North Bridge Road,Partially Furnished HDB Apartment,161 sqft ,468 North Bridge Road, Ready to move,Room,0,S$ 600 /mo,EW11 Lavender MRT Station,0.24 km
+10,Residences @ Somme,Fully Furnished Apartment,678 sqft ,3 Petain Road, Ready to move,2,2,"S$ 2,499 /mo",EW11 Lavender MRT Station,0.65 km
+11,28 Kelantan Road,Partially Furnished HDB Apartment,600 sqft ,28 Kelantan Road, Ready to move,2,1,"S$ 2,300 /mo",EW11 Lavender MRT Station,0.67 km
+12,The Citron Residences,Partially Furnished Apartment,667 sqft ,1 marne road, Ready to move,2,2,"S$ 3,000 /mo",EW11 Lavender MRT Station,0.85 km
+13,The Citron,Partially Furnished Condominium,700 sqft ,1 marne road, Ready to move,2,2,"S$ 2,900 /mo",EW11 Lavender MRT Station,0.85 km
+14,641 Rowell Road,Partially Furnished HDB Apartment,55 sqft ,641 Rowell Road, Ready to move,Room,0,S$ 750 /mo,EW11 Lavender MRT Station,0.89 km
+15,Concourse Skyline,Partially Furnished Condominium,861 sqft ,300 Beach Road, Ready to move,1,1,"S$ 4,000 /mo",EW11 Lavender MRT Station,0.78 km
+16,City Square Residences,Fully Furnished Condominium,570 sqft ,8 Kitchener Link, Ready to move,1,1,"S$ 2,700 /mo",EW11 Lavender MRT Station,0.64 km
+17,Citylights,Partially Furnished Condominium,721 sqft ,88 Jellicoe Road, Ready to move,1,1,"S$ 3,200 /mo",EW11 Lavender MRT Station,0.12 km
+18,City Square Residences,Condominium,570 sqft ,2 Kitchener Link, Ready to move,1,1,"S$ 2,600 /mo",EW11 Lavender MRT Station,0.64 km
+19,City Square Residences,Fully Furnished Condominium,570 sqft ,6 Kitchener Link, Ready to move,Studio,0,"S$ 2,800 /mo",EW11 Lavender MRT Station,0.64 km
+0,462 Crawford Lane,Fully Furnished HDB Apartment,710 sqft ,462 Crawford Lane, Available from 20 May,2,1,"S$ 2,280 /mo",EW11 Lavender MRT Station,0.39 km
+1,City Square Residences,Partially Furnished Condominium,1542 sqft ,2 Kitchener Link, Ready to move,4,3,"S$ 4,700 /mo",EW11 Lavender MRT Station,0.64 km
+2,City Square Residences,Fully Furnished Condominium,570 sqft ,2 Kitchener Link, S$ 5.00 psf,1,1,"S$ 2,850 /mo",EW11 Lavender MRT Station,0.64 km
+3,The Riverine By The Park,Fully Furnished Apartment,1313 sqft ,398 Kallang Road, Ready to move,3,3,"S$ 4,800 /mo",EW11 Lavender MRT Station,0.70 km
+4,City Square Residences,Fully Furnished Condominium,1216 sqft ,8 Kitchener Link, Ready to move,3,3,"S$ 4,300 /mo",EW11 Lavender MRT Station,0.64 km
+5,8B Upper Boon Keng Road,Fully Furnished HDB Apartment,100 sqft ,8B Upper Boon Keng Road, Ready to move,Room,0,S$ 780 /mo,EW11 Lavender MRT Station,0.95 km
+6,City Square Residences,Fully Furnished Condominium,1205 sqft ,12 Kitchener Link, Ready to move,3,3,"S$ 4,000 /mo",EW11 Lavender MRT Station,0.64 km
+7,Kerrisdale,Fully Furnished Condominium,1259 sqft ,30 Sturdee Road, Ready to move,3,3,"S$ 3,799 /mo",EW11 Lavender MRT Station,0.86 km
+8,The Riverine By The Park,Fully Furnished Apartment,1206 sqft ,398 Kallang Road, Ready to move,3,2,"S$ 5,200 /mo",EW11 Lavender MRT Station,0.70 km
+9,The Citron Residences,Fully Furnished Apartment,441 sqft ,1 marne road, Ready to move,1,1,"S$ 2,399 /mo",EW11 Lavender MRT Station,0.85 km
+10,City Square Residences,Fully Furnished Condominium,1206 sqft ,8 Kitchener Link, Ready to move,3,3,"S$ 4,300 /mo",EW11 Lavender MRT Station,0.64 km
+11,The Riverine By The Park,Partially Furnished Condominium,1800 sqft ,398 Kallang Road, Ready to move,4,3,"S$ 6,300 /mo",EW11 Lavender MRT Station,0.70 km
+12,Jalan Besar Plaza,Fully Furnished Apartment,400 sqft ,101 Kitchener Road, Ready to move,Room,0,"S$ 1,300 /mo",EW11 Lavender MRT Station,0.57 km
+13,Citylights,Partially Furnished Condominium,1894 sqft ,80 Jellicoe Road, Ready to move,3,3,"S$ 7,000 /mo",EW11 Lavender MRT Station,0.12 km
+14,Concourse Skyline,Fully Furnished Condominium,818 sqft ,300 Beach Road, Ready to move,1,1,"S$ 4,500 /mo",EW11 Lavender MRT Station,0.78 km
+15,10A Bendemeer Road,Fully Furnished HDB Apartment,150 sqft ,10A Bendemeer Road, Ready to move,Room,0,S$ 850 /mo,EW11 Lavender MRT Station,0.90 km
+16,Kerrisdale,Fully Furnished Condominium,1258 sqft ,30 Sturdee Road, Ready to move,3,3,"S$ 3,700 /mo",EW11 Lavender MRT Station,0.86 km
+17,641 Rowell Road,HDB Apartment,150 sqft ,641 Rowell Road, Available from 15 May,Room,0,S$ 750 /mo,EW11 Lavender MRT Station,0.89 km
+18,Kerrisdale,Fully Furnished Condominium,1480 sqft ,30 Sturdee Road, Ready to move,4,4,"S$ 4,400 /mo",EW11 Lavender MRT Station,0.86 km
+19,Concourse Skyline,Condominium,818 sqft ,298 Beach Road, S$ 5.13 psf,1,0,"S$ 4,200 /mo",EW11 Lavender MRT Station,0.78 km
+0,City Square Residences,Condominium,840 sqft ,2 Kitchener Link, Ready to move,2,2,"S$ 3,300 /mo",EW11 Lavender MRT Station,0.64 km
+1,City Square Residences,Fully Furnished Condominium,570 sqft ,8 Kitchener Link, Ready to move,1,1,"S$ 2,850 /mo",EW11 Lavender MRT Station,0.64 km
+2,Verdun Road (Little India),Fully Furnished Apartment,400 sqft ,24 Verdun Road, Ready to move,Studio,0,"S$ 1,800 /mo",EW11 Lavender MRT Station,0.79 km
+3,The Riverine By The Park,Unfurnished Apartment,1755 sqft ,398 Kallang Road, Ready to move,4,4,"S$ 5,900 /mo",EW11 Lavender MRT Station,0.70 km
+4,City Square Residences,Fully Furnished Condominium,840 sqft ,2 Kitchener Link, Available from 1 May,2,2,"S$ 3,600 /mo",EW11 Lavender MRT Station,0.64 km
+5,Concourse Skyline,Fully Furnished Condominium,883 sqft ,298 Beach Road, Ready to move,1,1,"S$ 3,999 /mo",EW11 Lavender MRT Station,0.78 km
+6,Kerrisdale,Fully Furnished Condominium,120 sqft ,30 Sturdee Road, Ready to move,Room,0,"S$ 1,100 /mo",EW11 Lavender MRT Station,0.86 km
+7,Citylights,Partially Furnished Condominium,689 sqft ,80 Jellicoe Road, Ready to move,1,1,"S$ 3,400 /mo",EW11 Lavender MRT Station,0.12 km
+8,The Plaza,Fully Furnished Apartment,807 sqft ,7500A Beach Road, Ready to move,2,2,"S$ 3,100 /mo",EW11 Lavender MRT Station,0.98 km
+9,641 Rowell Road,Fully Furnished HDB Apartment,150 sqft ,641 Rowell Road, Ready to move,Room,0,"S$ 1,200 /mo",EW11 Lavender MRT Station,0.89 km
+10,641 Rowell Road,Fully Furnished HDB Apartment,120 sqft ,641 Rowell Road, S$ 7.08 psf,Room,0,S$ 850 /mo,EW11 Lavender MRT Station,0.89 km
+11,City Square Residences,Condominium,1216 sqft ,8 Kitchener Link, Ready to move,3,2,"S$ 4,300 /mo",EW11 Lavender MRT Station,0.64 km
+12,17 Beach Road,Fully Furnished HDB Apartment,120 sqft ,17 Beach Road, S$ 7.50 psf,Room,0,S$ 900 /mo,EW11 Lavender MRT Station,0.42 km
+13,City Square Residences,Fully Furnished Condominium,1216 sqft ,8 Kitchener Link, Available from 30 Apr,3,2,"S$ 4,800 /mo",EW11 Lavender MRT Station,0.64 km
+14,Concourse Skyline,Condominium,1087 sqft ,298 Beach Road, Ready to move,2,2,"S$ 5,200 /mo",EW11 Lavender MRT Station,0.78 km
+15,Southbank,Unfurnished Condominium,883 sqft ,881 North Bridge Road, Ready to move,1,1,"S$ 3,700 /mo",EW11 Lavender MRT Station,0.22 km
+16,Concourse Skyline,Fully Furnished Condominium,818 sqft ,300 Beach Road, Ready to move,1,1,"S$ 4,180 /mo",EW11 Lavender MRT Station,0.78 km
+17,Kerrisdale,Fully Furnished Condominium,1259 sqft ,36 Sturdee Road, Available from 30 Apr,3,3,"S$ 4,000 /mo",EW11 Lavender MRT Station,0.86 km
+18,Citylights,Partially Furnished Condominium,678 sqft ,90 jellicoe, Available from 25 Apr,1,1,"S$ 3,200 /mo",EW11 Lavender MRT Station,0.05 km
+19,Hoa Nam Building,Fully Furnished Apartment,400 sqft ,27 Foch Road, Available from 1 May,1,1,"S$ 1,400 /mo",EW11 Lavender MRT Station,0.68 km
+0,Concourse Skyline,Partially Furnished Condominium,1109 sqft ,300 Beach Road, Ready to move,2,2,"S$ 5,200 /mo",EW11 Lavender MRT Station,0.78 km
+1,Southbank,Fully Furnished Condominium,904 sqft ,881 North Bridge Road, Ready to move,2,2,"S$ 4,000 /mo",EW11 Lavender MRT Station,0.24 km
+2,Concourse Skyline,Partially Furnished Condominium,872 sqft ,300 Beach Road, Ready to move,1,1,"S$ 4,800 /mo",EW11 Lavender MRT Station,0.78 km
+3,The Plaza,Fully Furnished Apartment,700 sqft ,7500A Beach Road, Ready to move,1,1,"S$ 3,000 /mo",EW11 Lavender MRT Station,0.98 km
+4,Duo Residence,Partially Furnished Apartment,1109 sqft ,Duo residence, S$ 4.41 psf,2,2,"S$ 4,888 /mo",EW11 Lavender MRT Station,0.94 km
+5,Wu De Building,Fully Furnished Apartment,1270 sqft ,6A Beatty Road, Ready to move,3,3,"S$ 2,800 /mo",EW11 Lavender MRT Station,0.92 km
+6,Southbank,Fully Furnished Condominium,592 sqft ,881 North Bridge Road, Available from 3 Jun,1,1,"S$ 3,500 /mo",EW11 Lavender MRT Station,0.22 km
+7,Rare Walk-Up Apartment Near Lavender MRT Station!,Walk-up,1200 sqft ,Cavan Road, Ready to move,4,2,"S$ 2,400 /mo",EW11 Lavender MRT Station,0.41 km
+8,Shophouse At City Fringe,Fully Furnished Shophouse,1500 sqft ,Jalan Besar, Ready to move,5,3,"S$ 4,800 /mo",EW11 Lavender MRT Station,0.61 km
+9,"641 Rowell Road, Singapore",Fully Furnished HDB Apartment,1100 sqft ,(within 0.74 km), S$ 3.00 psf,3,2,"S$ 3,299 /mo",EW11 Lavender MRT Station,0.74 km
+10,Cavan Suites,Fully Furnished Apartment,366 sqft ,11 Cavan Road, Ready to move,Studio,0,"S$ 1,800 /mo",EW11 Lavender MRT Station,0.42 km
+11,City Square Residences,Fully Furnished Condominium,570 sqft ,6 Kitchener Link, Ready to move,1,1,"S$ 2,980 /mo",EW11 Lavender MRT Station,0.64 km
+12,City Square Residences,Fully Furnished Condominium,120 sqft ,14 Kitchener Link, Ready to move,Room,0,"S$ 1,300 /mo",EW11 Lavender MRT Station,0.64 km
+13,Concourse Skyline,Condominium,1152 sqft ,300 Beach Road, S$ 4.51 psf,2,2,"S$ 5,200 /mo",EW11 Lavender MRT Station,0.78 km
+14,Citylights,Partially Furnished Condominium,678 sqft ,80 Jellicoe Road, Ready to move,1,1,"S$ 3,200 /mo",EW11 Lavender MRT Station,0.12 km
+15,Citylights,Fully Furnished Condominium,1335 sqft ,80 Jellicoe Road, S$ 3.90 psf,3,2,"S$ 5,200 /mo",EW11 Lavender MRT Station,0.12 km
+16,City Square Residences,Fully Furnished Condominium,569 sqft ,12 Kitchener Link, Available from 19 May,1,1,"S$ 2,700 /mo",EW11 Lavender MRT Station,0.64 km
+17,City Square Residences,Fully Furnished Condominium,570 sqft ,8 Kitchener Link, Available from 19 May,Studio,0,"S$ 2,700 /mo",EW11 Lavender MRT Station,0.64 km
+18,The Citron Residences,Partially Furnished Apartment,915 sqft ,1 marne road, Ready to move,3,2,"S$ 4,500 /mo",EW11 Lavender MRT Station,0.85 km
+19,Southbank,Partially Furnished Apartment,969 sqft ,881 North Bridge Road, Available from 15 Apr,2,2,"S$ 4,000 /mo",EW11 Lavender MRT Station,0.22 km
+0,The Plaza,Fully Furnished Apartment,678 sqft ,7500A Beach Road, Ready to move,1,1,"S$ 2,800 /mo",EW11 Lavender MRT Station,0.98 km
+1,Citylights,Fully Furnished Condominium,721 sqft ,88 Jellicoe Road, Ready to move,2,1,"S$ 3,500 /mo",EW11 Lavender MRT Station,0.12 km
+2,The Citron Residences,Partially Furnished Apartment,450 sqft ,1 marne road, Ready to move,Studio,0,"S$ 2,200 /mo",EW11 Lavender MRT Station,0.85 km
+3,City Square Residences,Fully Furnished Condominium,570 sqft ,6 Kitchener Link, Available from 15 Apr,1,1,"S$ 2,699 /mo",EW11 Lavender MRT Station,0.64 km
+4,City Square Residences,Fully Furnished Condominium,1238 sqft ,12 Kitchener Link, Ready to move,3,3,"S$ 4,600 /mo",EW11 Lavender MRT Station,0.64 km
+5,Citylights,Partially Furnished Condominium,1894 sqft ,80 Jellicoe Road, Ready to move,3,3,"S$ 7,500 /mo",EW11 Lavender MRT Station,0.12 km
+6,Citylights,Fully Furnished Condominium,691 sqft ,80 Jellicoe Road, Ready to move,1,1,"S$ 3,400 /mo",EW11 Lavender MRT Station,0.12 km
+7,The Plaza,Fully Furnished Apartment,750 sqft ,7500 Beach Road, Ready to move,1,1,"S$ 2,500 /mo",EW11 Lavender MRT Station,0.86 km
+8,City Square Residences,Fully Furnished Condominium,570 sqft ,8 Kitchener Link, Ready to move,1,1,"S$ 2,800 /mo",EW11 Lavender MRT Station,0.64 km
+9,Citylights,Partially Furnished Condominium,872 sqft ,90 Jellicoe Road, Ready to move,2,2,"S$ 4,000 /mo",EW11 Lavender MRT Station,0.12 km
+10,Verdun House,Partially Furnished Apartment,300 sqft ,6 Verdun House, Ready to move,Studio,0,"S$ 1,850 /mo",EW11 Lavender MRT Station,0.81 km
+11,Citylights,Fully Furnished Condominium,926 sqft ,80 Jellicoe Road, Ready to move,2,2,"S$ 4,000 /mo",EW11 Lavender MRT Station,0.12 km
+12,467 North Bridge Road,Fully Furnished HDB Apartment,150 sqft ,467 North Bridge Road, Ready to move,Room,0,S$ 800 /mo,EW11 Lavender MRT Station,0.26 km
+13,8B Upper Boon Keng Road,Fully Furnished HDB Apartment,120 sqft ,8B Upper Boon Keng Road, Ready to move,Room,0,S$ 900 /mo,EW11 Lavender MRT Station,0.95 km
+14,City Square Residences,Fully Furnished Condominium,570 sqft ,8 Kitchener Link, Ready to move,Studio,0,"S$ 2,800 /mo",EW11 Lavender MRT Station,0.64 km
+15,The Plaza,Partially Furnished Apartment,829 sqft ,7500A Beach Road, Ready to move,1,1,"S$ 2,100 /mo",EW11 Lavender MRT Station,0.98 km
+16,Kerrisdale,Fully Furnished Condominium,180 sqft ,(within 0.85 km), S$ 6.67 psf,Room,0,"S$ 1,200 /mo",EW11 Lavender MRT Station,0.85 km
+17,City Square Residences,Fully Furnished Condominium,120 sqft ,2 Kitchener Link, Ready to move,Room,0,"S$ 1,100 /mo",EW11 Lavender MRT Station,0.64 km
+18,The Citron Residences,Apartment,441 sqft ,1 marne road, Ready to move,1,1,"S$ 2,100 /mo",EW11 Lavender MRT Station,0.85 km
+19,Concourse Skyline,Partially Furnished Condominium,872 sqft ,298 Beach Road, Available from 1 May,1,1,"S$ 3,800 /mo",EW11 Lavender MRT Station,0.78 km
+0,Kerrisdale,Partially Furnished Condominium,990 sqft ,30 Sturdee Road, Ready to move,2,2,"S$ 3,690 /mo",EW11 Lavender MRT Station,0.86 km
+1,Textile Centre,Fully Furnished Apartment,100 sqft ,200 Jalan Sultan, S$ 12.00 psf,Studio,0,"S$ 1,200 /mo",EW11 Lavender MRT Station,0.45 km
+2,Southbank,Fully Furnished Condominium,958 sqft ,881 North Bridge Road, Ready to move,2,2,"S$ 4,100 /mo",EW11 Lavender MRT Station,0.22 km
+3,The Citron Residences,Apartment,732 sqft ,1 marne road, Ready to move,2,1,"S$ 3,000 /mo",EW11 Lavender MRT Station,0.85 km
+4,City Square Residences,Fully Furnished Condominium,570 sqft ,2 Kitchener Link, Available from 2 May,1,1,"S$ 2,700 /mo",EW11 Lavender MRT Station,0.64 km
+5,Petain Road,Partially Furnished Shophouse,"4500 sqft, 2500 sqft (land) ",Petain Road, Ready to move,4,4,"S$ 11,888 /mo",EW11 Lavender MRT Station,0.77 km
+6,Beautiful & Charming Shophouse @ Jalan Besar,Partially Furnished Conservation House,"4500 sqft, 2500 sqft (land) ",Petain Road, Ready to move,4,4,"S$ 12,000 /mo",EW11 Lavender MRT Station,0.77 km
+7,City Square Residences,Fully Furnished Condominium,570 sqft ,6 Kitchener Link, Ready to move,Studio,0,"S$ 2,850 /mo",EW11 Lavender MRT Station,0.64 km
+8,Citylights,Fully Furnished Condominium,560 sqft ,80 Jellicoe Road, Available from 1 May,1,1,"S$ 2,999 /mo",EW11 Lavender MRT Station,0.12 km
+9,24C Verdun Road,Fully Furnished Apartment,300 sqft ,(within 0.80 km), Ready to move,Studio,0,"S$ 1,800 /mo",EW11 Lavender MRT Station,0.80 km
+10,City Square Residences,Partially Furnished Condominium,1206 sqft ,8 Kitchener Link, S$ 3.73 psf,3,3,"S$ 4,500 /mo",EW11 Lavender MRT Station,0.64 km
+11,City Square Residences,Fully Furnished Condominium,570 sqft ,8 Kitchener Link, Ready to move,Studio,0,"S$ 2,799 /mo",EW11 Lavender MRT Station,0.64 km
+12,Citylights,Fully Furnished Condominium,560 sqft ,90 Jellicoe Road, Ready to move,1,1,"S$ 3,000 /mo",EW11 Lavender MRT Station,0.12 km
+13,The Riverine By The Park,Apartment,1300 sqft ,398 Kallang Road, Ready to move,3,3,"S$ 4,380 /mo",EW11 Lavender MRT Station,0.70 km
+14,City Square Residences,Fully Furnished Condominium,570 sqft ,12 Kitchener Link, Ready to move,1,1,"S$ 2,700 /mo",EW11 Lavender MRT Station,0.64 km
+15,City Square Residences,Condominium,840 sqft ,10 Kitchener Link, Ready to move,2,2,"S$ 3,200 /mo",EW11 Lavender MRT Station,0.64 km
+16,City Square Residences,Fully Furnished Condominium,861 sqft ,12 Kitchener Link, Ready to move,2,2,"S$ 3,600 /mo",EW11 Lavender MRT Station,0.64 km
+17,City Square Residences,Condominium,160 sqft ,8 Kitchener Link, S$ 6.25 psf,Room,0,"S$ 1,000 /mo",EW11 Lavender MRT Station,0.64 km
+18,Hoa Nam Building,Partially Furnished Apartment,800 sqft ,27 Foch Road, Available from 1 May,2,2,"S$ 2,650 /mo",EW11 Lavender MRT Station,0.64 km
+19,Wu De Building,Fully Furnished Apartment,200 sqft ,6A Beatty Road, Ready to move,Room,0,S$ 900 /mo,EW11 Lavender MRT Station,0.92 km
